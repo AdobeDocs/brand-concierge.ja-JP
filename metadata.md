@@ -4,8 +4,8 @@ solution: Brand Concierge
 type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/brand-concierge.ja-JP
-hide: true
-source-git-commit: 05a8a9861a48851e9eab871778c290a9790bb719
+index: true
+source-git-commit: 203a161619d8f0066b971bef79a0a70dfecb9c16
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 98%
