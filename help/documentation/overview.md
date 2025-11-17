@@ -1,9 +1,9 @@
 ---
 title: Adobe Brand Conciergeの概要
 description: ブランドが所有するデジタルプロパティ向けの AI を活用した製品検出およびエンゲージメントソリューションである、Adobe Brand Conciergeについて説明します。
-source-git-commit: 4973820b87be15ff46ac053dbed79146e7043676
+source-git-commit: ee6b768579e620044ca92f5e8b9d06f39a60583d
 workflow-type: tm+mt
-source-wordcount: '2953'
+source-wordcount: '2952'
 ht-degree: 1%
 
 ---
@@ -179,7 +179,7 @@ Brand Conciergeは、高度な対話型 AI 機能で企業を支援し、顧客�
 * ブランドの声、トーンおよびコンプライアンス要件を管理します。
 * Customer Journey Analytics ダッシュボードを使用したパフォーマンスの追跡。
 * 会議のスケジュール設定を含む、AI から人間へのシームレスなハンドオフを可能にします。
-* Adobe Experience Platform、Commerce、Experience Managerとの統合。
+* Adobe Experience PlatformおよびExperience Managerとの統合。
 
 ## ユースケース
 
@@ -296,7 +296,7 @@ Adobe コンサルタントは、次のようなバックグラウンドで迅�
 
 #### 成功を測定するにはどうすればよいですか？
 
-Brand Conciergeのダッシュボードを使用して、成功を測定できます。 ダッシュボードを使用して、次のような指標を追跡します。
+成功を測定するには、Brand Concierge ダッシュボードを使用します。 ダッシュボードを使用して、次のような指標を追跡します。
 
 | 指標 | トラッキング対象 |
 |--------|----------------|
