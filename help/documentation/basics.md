@@ -19,4 +19,4 @@ ht-degree: 1%
 
 ## 設定
 
-Brand Conciergeが正しく設定されていることを確認するには、[ 設定 ](./settings.md) の節を参照してください。
+Brand Conciergeが正しく設定されていることを確認するには、[&#x200B; 設定 &#x200B;](./settings.md) の節を参照してください。
