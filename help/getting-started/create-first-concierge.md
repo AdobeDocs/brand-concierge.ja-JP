@@ -32,6 +32,6 @@ ht-degree: 0%
 * 正確な応答を得るためにコンテンツソースを接続する方法
 * ブランドボイスをカスタマイズし、エクスペリエンスをテストする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476522/?captions=jpn&learn=on&enablevpops)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md) を参照してください。
