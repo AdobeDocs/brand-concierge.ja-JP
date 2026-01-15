@@ -1,5 +1,5 @@
 ---
-title: ミーティングの予約
+title: 会議を予約 – ビデオ
 description: 会議の予約方法を説明します。 エクスペリエンスを顧客として確認し、担当者がカレンダーを使用してレポートを表示するように設定します
 topic: Artificial Intelligence,Personalization
 role: Admin, User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
+source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Adobe Brand Conciergeでのミーティング機能の予約について説明�
 * ライブエージェントへの転送がどのくらい迅速かつ簡単に行われるかを確認
 * これらのツールの管理および設定方法を確認する
 
->[!VIDEO](https://video.tv.adobe.com/v/3478535?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
-その他のドキュメントについては、[&#x200B; ミーティング &#x200B;](../documentation/meetings.md) を参照してください。
+その他のドキュメントについては、[ ミーティング ](../documentation/meetings.md) を参照してください。
