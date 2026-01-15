@@ -34,4 +34,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md) を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md) を参照してください。
