@@ -1,5 +1,5 @@
 ---
-title: Brand Conciergeの概要
+title: コンシェルジュビデオの作成
 description: Adobe Brand Conciergeを設定して、ブランドの声を使用してパーソナライズされた対話型のカスタマーエクスペリエンスを提供する方法について説明します。
 topic: Personalization,Integrations
 role: User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: 9ae37f8f5b85e21930ccc0644520f31d65a81829
+source-git-commit: f2006c69fec365551f791a6c94bca6f1c2c6cdc4
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,6 @@ ht-degree: 0%
 * 正確な応答を得るためにコンテンツソースを接続する方法
 * ブランドボイスをカスタマイズし、エクスペリエンスをテストする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3476522/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md) を参照してください。
