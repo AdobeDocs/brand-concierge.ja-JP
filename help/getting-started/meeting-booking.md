@@ -34,4 +34,4 @@ Adobe Brand Conciergeでのミーティング機能の予約について説明�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
-その他のドキュメントについては、[ ミーティング ](../documentation/meetings.md) を参照してください。
+その他のドキュメントについては、[&#x200B; ミーティング &#x200B;](../documentation/meetings.md) を参照してください。
