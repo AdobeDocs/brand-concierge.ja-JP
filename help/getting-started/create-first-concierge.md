@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
+source-git-commit: 0da8fba88277c80a8413484e39167b9aa01170e5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 最初のコンシェルジュを作成
 
-初めてのAdobe Brand Conciergeの設定方法を説明し、お客様が適切なAdobeの製品、サービスまたはエクスペリエンスを見つけられるようにします。 コンシェルジュに名前を付ける方法、役に立つコンテンツを追加する方法、応答方法を選択する方法、ブランドに声を合わせる方法を学びます。 準備が整ったら、テストして、デスクトップやモバイルでの動作を確認できます。
+Web サイト上でパーソナライズされた対話型エクスペリエンスを提供する顧客のガイドに役立つ、最初のAdobe Brand Conciergeを設定する方法を説明します。 コンシェルジュに名前を付ける方法、役に立つコンテンツを追加する方法、応答方法を選択する方法、ブランドに声を合わせる方法を学びます。 準備が整ったら、テストして、デスクトップやモバイルでの動作を確認できます。
 
 ## このビデオの目的は誰ですか。
 
@@ -32,6 +32,6 @@ ht-degree: 0%
 * 正確な応答を得るためにコンテンツソースを接続する方法
 * ブランドボイスをカスタマイズし、エクスペリエンスをテストする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3476522/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md) を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md) を参照してください。
