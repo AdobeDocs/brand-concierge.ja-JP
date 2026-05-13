@@ -1,37 +1,41 @@
 ---
-title: 会議を予約 – ビデオ
-description: 会議の予約方法を説明します。 エクスペリエンスを顧客として確認し、担当者がカレンダーを使用してレポートを表示するように設定します
+title: 会議の予約 – ビデオ
+description: 会議の予約方法について説明します。 顧客としてエクスペリエンスを確認し、担当者がカレンダーを使用してレポートを表示するように設定する
 topic: Artificial Intelligence,Personalization
 role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 226
-last-substantial-update: 2026-01-06T00:00:00Z
+last-substantial-update: 2026-01-06T00:00:00.000Z
 jira: KT-19622
-source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
+TQID: https://experienceleague.adobe.com/4wW6FTaGpq-BrAvZzMh0PATAT2WkCuB-YRBCnGyJEYs
+product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 0%
+source-wordcount: 121
+ht-degree: 51%
 
 ---
 
-
 # ミーティングの予約
 
-Adobe Brand Conciergeでのミーティング機能の予約について説明します。 このビデオチュートリアルのトピックでは、顧客に接するエクスペリエンスの概要、カレンダーを接続するための管理者の設定、一部のダッシュボードとレポートについて説明します。
+Adobe Brand Concierge の会議の予約機能について説明します。 このビデオチュートリアルでは、顧客向けエクスペリエンスの外観、カレンダーを接続するための管理者設定、一部のダッシュボードとレポートについて説明します。
 
-## このビデオの目的は誰ですか。
+## この動画は誰のためのものでしょうか？
 
 * デジタルマーケティングマネージャー
-* カスタマーエクスペリエンスリード
-* E コマースまたは Web Operations Manager
+* カスタマーエクスペリエンス担当責任者
+* e コマース/web オペレーションマネージャー
 
 ## ビデオコンテンツ
 
-* 会議の予約の実例を見る
-* ライブエージェントへの転送がどのくらい迅速かつ簡単に行われるかを確認
-* これらのツールの管理および設定方法を確認する
+* 会議の予約のライブの例を見る
+* ライブエージェントへの転送がどれだけ迅速かつ簡単に行われるかを確認します
+* ツールの管理と設定方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/3478535?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
-その他のドキュメントについては、[&#x200B; ミーティング &#x200B;](../documentation/meetings.md) を参照してください。
+詳細については、[Meetings](../documentation/meetings.md)を参照してください。

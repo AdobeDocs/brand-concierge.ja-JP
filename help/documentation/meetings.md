@@ -1,87 +1,91 @@
 ---
-title: 会議のセットアップと構成
-description: Adobe Brand Conciergeでミーティングを設定する方法について説明します。
+title: ミーティングの設定と設定
+description: Adobe Brand Conciergeでミーティングを設定および設定する方法について説明します。
 level: Beginner
 role: User,Admin
-source-git-commit: 9bd739128b25805d8e17b65b2fb9fea65c820526
+TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
+product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: 347
 ht-degree: 2%
 
 ---
 
-# 会議 {#meetings}
+# Meetings {#meetings}
 
-Adobe Brand Conciergeのすべての _会議_ 設定について説明します。 カレンダーを接続したり、空き時間を設定したり、分析を表示したりします。
+Adobe Brand Conciergeの&#x200B;_会議_&#x200B;のすべての設定を確認します。 カレンダーの接続、空き状況の設定、分析結果の表示など、さまざまな機能を利用できます。
 
-関連：[&#x200B; ミーティングの予約 &#x200B;](../getting-started/meeting-booking.md) ビデオ
+関連：[会議の予約](../getting-started/meeting-booking.md)動画
 
 ## 設定 {#configuration}
 
-Outlook またはGoogle アカウントに接続して、曜日、タイムゾーン、会議の期間などの様々な設定を指定します。
+OutlookやGoogleのアカウントに接続し、曜日、タイムゾーン、ミーティング期間などの設定を指定します。
 
-### カレンダーを接続 {#connect}
+### カレンダーの接続 {#connect}
 
-1. [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"} にログインします。
+1. [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}にログインします。
 
-1. **[!UICONTROL Sales Qualifier]** を選択します。
+1. **[!UICONTROL 販売修飾子]**&#x200B;を選択します。
 
-   ![Adobe Experience Platform ホームページ &#x200B;](assets/meetings-connect-1.png){width="800" zoomable="yes"}
+   ![Adobe Experience Platform ホームページ ](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. _設定_ の下の **[!UICONTROL 代表設定]** をクリックします。
+1. _設定_&#x200B;で、**[!UICONTROL 代表設定]**&#x200B;をクリックします。
 
-   ![&#x200B; カレンダー設定ページ &#x200B;](assets/meetings-connect-2.png)
+   ![ カレンダー設定ページ ](assets/meetings-connect-2.png)
 
-   「_[!UICONTROL カレンダー設定]_」タブで、目的のカレンダーを選択します。 この例では、「**[!UICONTROL Outlook]**」を選択しています。
+   「_[!UICONTROL カレンダー設定]_」タブで、目的のカレンダーを選択します。 この例では、**[!UICONTROL Outlook]**&#x200B;を選択しています。
 
-1. 既にサインインしているアカウントを選択するか、新しいアカウントを追加してください。
+1. 既にサインインしているアカウントを選択するか、新しいアカウントを追加します。
 
-   ![Microsoftがアカウントモーダルを選択 &#x200B;](assets/meetings-connect-3.png)
+   ![Microsoftがアカウント モーダルを選択](assets/meetings-connect-3.png)
 
 1. 接続が完了したら、目的のメールコンテンツを指定します。
 
-   これは、受信者が会議を予約したときに受信者に送信されるコンテンツです。 また、Microsoft Teamsの会議リンクを含めることもできます（オプション）。
+   これは、受信者が自分との会議を予約したときに送信されるコンテンツです。 Microsoft Teams会議リンクを含めることもできます（オプション）。
 
-   ![&#x200B; 会議確認メールの詳細 &#x200B;](assets/meetings-connect-4.png)
+   ![会議確認メールの詳細](assets/meetings-connect-4.png)
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
-### カレンダーの空き時間の設定 {#availability}
+### カレンダーの空き状況の設定 {#availability}
 
-1. **[!UICONTROL カレンダーの空き時間]** タブをクリックします。
+1. 「**[!UICONTROL カレンダーの空き状況]**」タブをクリックします。
 
-   ![&#x200B; 空のカレンダーの空き時間ページ &#x200B;](assets/meetings-availability-1.png)
+   ![空のカレンダーの空き状況ページ ](assets/meetings-availability-1.png)
 
-1. 目的の設定を選択します。
+1. 必要な設定を選択します。
 
-   この例では、**[!UICONTROL ミーティング期間]** を 30 分、15 分 **[!UICONTROL バッファ時間]** と **[!UICONTROL 最小通知]** を 2 時間に設定します。 利用可能時間は月曜から金曜、午前 8:00～午後 5:00 （PST）に設定され、正午に 1 時間の休憩が与えられます。
+   この例では、30分の&#x200B;**[!UICONTROL ミーティング期間]**&#x200B;を選択し、15分の&#x200B;**[!UICONTROL バッファー時間]**、2時間の&#x200B;**[!UICONTROL 最小通知]**&#x200B;を選択しています。 ご利用いただけるかどうかは、月曜日から金曜日の午前8時から午後5時（太平洋標準時）までで、正午には1時間の休憩が必要です。
 
    >[!NOTE]
    >
-   >時間オプションをさらに追加するには、プラス記号（![&#x200B; プラス記号アイコン &#x200B;](assets/icon-plus-sign.png)）をクリックします。
+   >さらに時間オプションを追加するには、プラス記号（![ プラス記号アイコン ](assets/icon-plus-sign.png)）をクリックします。
 
-   ![&#x200B; すべてのフィールドに値が入力されたカレンダーの可用性ページ &#x200B;](assets/meetings-availability-2.png)
+   すべてのフィールドが入力された![ カレンダーの空き状況ページ ](assets/meetings-availability-2.png)
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
-### 代表者の管理 {#representative}
+### 代表経営陣 {#representative}
 
-**管理者のみ**。 どの担当者がカレンダーに正常に接続したかを確認します。
+**管理者のみ**。 カレンダーの接続に成功した担当者を確認します。
 
-![&#x200B; 代表管理ページ &#x200B;](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+![代表管理ページ ](assets/meetings-representative-1.png){width="800" zoomable="yes"}
 
 ## アクティビティ {#activities}
 
-**[!UICONTROL ミーティング予約]** をクリックすると、予約されたミーティングを確認したり、どの情報が取得されたかを確認したり、ミーティングがいつ予定されたかを確認したりできます。
+「**[!UICONTROL ミーティング予約]**」をクリックして、予約されたミーティングを確認し、どのような情報がキャプチャされたかを確認し、ミーティングがいつスケジュールされたかを確認します。
 
-### 会議ページ {#bookings}
+### ミーティングページ {#bookings}
 
-![&#x200B; ミーティング予約ページ &#x200B;](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
+![会議の予約ページ ](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
 
 ## Analytics {#analytics}
 
-**[!UICONTROL ミーティングのパフォーマンス]** をクリックして、ミーティングをリクエストした訪問者の数や欠席した訪問者の数など、様々な分析カテゴリを確認します。 あなたは、会議を取った代表者である会議の傾向となっているものを見ることができます、そしてそんなに。
+「**[!UICONTROL ミーティングのパフォーマンス]**」をクリックして、ミーティングをリクエストした訪問者の数や欠落した訪問者の数など、複数の分析カテゴリを確認します。 ミーティングのトレンドや、ミーティングに参加した代表者など、様々な情報を確認できます。
 
-### 会議ページ {#performance}
+### ミーティングページ {#performance}
 
-![&#x200B; ミーティングのパフォーマンス ページ &#x200B;](assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![会議パフォーマンス ページ ](assets/meetings-performance-1.png){width="800" zoomable="yes"}
