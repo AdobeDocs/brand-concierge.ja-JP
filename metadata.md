@@ -1,7 +1,8 @@
 ---
 cloud: Experience Cloud
 solution: Brand Concierge
-product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
 usetq: true
 type: Documentation
 mini-toc-levels: 2
