@@ -6,7 +6,7 @@ product_v2:
 usetq: true
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/brand-concierge.en
+git-repo: https://github.com/AdobeDocs/brand-concierge.ja-JP
 index: true
 source-git-commit: 7eb30b9d58dde528db60b3162e0e501fa2a3d395
 workflow-type: tm+mt
