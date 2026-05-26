@@ -1,9 +1,8 @@
 ---
 description: Adobe Brand Conciergeの最新のリリースノート。
 title: 最新のリリースノート
-hide: true
 feature: Release Information
-source-git-commit: 234b1b699970c97c6f3f997d790416d45c1c3a24
+source-git-commit: 39d49289351c4e9a8b733e91daf8692df472031a
 workflow-type: tm+mt
 source-wordcount: '752'
 ht-degree: 0%
