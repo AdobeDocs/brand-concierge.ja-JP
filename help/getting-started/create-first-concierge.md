@@ -1,11 +1,11 @@
 ---
 title: コンシェルジュの作成 – ビデオ
-description: Adobe Brand Conciergeを設定して、ブランドの声を活用して、パーソナライズされた会話型の顧客体験を提供する方法を説明します。
+description: Adobe Brand Conciergeを設定して、ブランドの声やガイドラインを活用して、サイトでパーソナライズされた会話型の顧客体験を提供する方法を説明します。
 topic: Personalization,Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 181
+duration: 213
 last-substantial-update: 2025-10-31T00:00:00.000Z
 jira: KT-19504
 TQID: https://experienceleague.adobe.com/RDjW-BGiusLzV4wcUQpJ7kB6VxE01H-a6iaDlwbGofc
@@ -19,9 +19,9 @@ topic_v2:
   - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: 0cf28b049f802f6ce677a62bbd3dc4da2f5ffde4
 workflow-type: tm+mt
-source-wordcount: 133
+source-wordcount: 138
 ht-degree: 0%
 
 ---
@@ -42,6 +42,6 @@ Adobeを初めて導入し、パーソナライズされた会話体験を提供
 * コンテンツソースを連携させて正確に回答する方法
 * ブランドボイスをカスタマイズし、エクスペリエンスをテストする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3476522/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476522/?captions=jpn&learn=on)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
