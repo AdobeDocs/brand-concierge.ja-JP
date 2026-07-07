@@ -19,7 +19,7 @@ topic_v2:
   - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 0cf28b049f802f6ce677a62bbd3dc4da2f5ffde4
+source-git-commit: b64a90b1ad70162ca26967297254c5b83d3da39e
 workflow-type: tm+mt
 source-wordcount: 138
 ht-degree: 0%
@@ -45,3 +45,4 @@ Adobeを初めて導入し、パーソナライズされた会話体験を提供
 >[!VIDEO](https://video.tv.adobe.com/v/3476522/?captions=jpn&learn=on)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+
