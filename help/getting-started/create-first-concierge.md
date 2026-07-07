@@ -9,17 +9,11 @@ duration: 213
 last-substantial-update: 2025-10-31T00:00:00.000Z
 jira: KT-19504
 TQID: https://experienceleague.adobe.com/RDjW-BGiusLzV4wcUQpJ7kB6VxE01H-a6iaDlwbGofc
-product_v2:
-  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 0cf28b049f802f6ce677a62bbd3dc4da2f5ffde4
+product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a09a5a04-e30b-4d55-b031-38e6f5ec86dbid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b64a90b1ad70162ca26967297254c5b83d3da39e
 workflow-type: tm+mt
 source-wordcount: 138
 ht-degree: 0%
@@ -42,6 +36,7 @@ Adobeを初めて導入し、パーソナライズされた会話体験を提供
 * コンテンツソースを連携させて正確に回答する方法
 * ブランドボイスをカスタマイズし、エクスペリエンスをテストする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3476522/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+
