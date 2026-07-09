@@ -24,4 +24,4 @@ ht-degree: 41%
    + [よくある質問](../documentation/brand-concierge-faq.md)
 + リリースノート {#release-notes}
    + [現在のリリース情報](../release-notes/current.md)
-+ [Brand Conciergeのデモ - Value Video](../demo-videos/demo-for-brand-concierge-value-video.md){.hide-from-toc}
++ [Brand Conciergeのデモ - Value Video.hide-from-toc](../demo-videos/demo-for-brand-concierge-value-video.md)
