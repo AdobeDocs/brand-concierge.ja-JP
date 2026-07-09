@@ -19,5 +19,5 @@ ht-degree: 0%
 
 このビデオでは、自然言語プロンプトを使用して、同僚からBrand Concierge（BC）を直接作成および管理する方法を示します。 エンドツーエンドのフローを示します。同僚にweb サイト用のBrand Conciergeの作成を促し、リアルタイムの作成進行状況モーダルを表示し、BC プレビューを開き、特定のIMS組織とサンドボックスのBrand Concierge レポートダッシュボードを開くようにConversation Analyticsにリクエストします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3494747)
+>[!VIDEO](https://video.tv.adobe.com/v/3494748?captions=jpn)
 
