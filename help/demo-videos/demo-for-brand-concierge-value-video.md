@@ -7,7 +7,8 @@ doc-type: Value Video
 duration: 111
 last-substantial-update: 2026-07-09T00:00:00Z
 jira: KT-21955
-source-git-commit: 46e4f2c148b191ca4ef30fd6e04504512e4531c0
+hide: true
+source-git-commit: 2f42997f9c4510d3a5e4cf321795dcedcbebdd5d
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 16%
