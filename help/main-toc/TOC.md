@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge について
-source-git-commit: 16972dc6ddaa2932af2b73e7e56527d3f6293635
+source-git-commit: e1f4f561ee284f0c4c0b3d75e9f7ed6d5d5a1ac8
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 41%
+source-wordcount: '60'
+ht-degree: 35%
 
 ---
 
@@ -18,6 +18,8 @@ ht-degree: 41%
    + [ミーティングの予約](../getting-started/meeting-booking.md)
    + [データストリーム IDについて説明します](../getting-started/learn-about-datastream-ids.md)
    + [Marketoとの連携](../getting-started/integration-with-marketo.md)
++ 運用開始ガイド {#go-live-guide}
+   + [Adobe Commerceの本番稼動ジャーニーへの](../go-live/welcome.md)
 + ドキュメント {#documentation}
    + [Brand Concierge ヘルプ](../documentation/overview.md)
    + [Meetings](../documentation/meetings.md)
