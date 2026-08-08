@@ -32,6 +32,6 @@ ht-degree: 0%
 * ウィジェットの視覚的な選択肢：配置、表示モード、カラー、フォント
 * アシスタントの命名、挨拶の作成、スタータープロンプトの選択を行います
 
->[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496943/?captions=jpn&learn=on)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
