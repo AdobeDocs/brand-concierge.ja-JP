@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 150
 last-substantial-update: 2026-07-10T00:00:00Z
 jira: KT-21745
-source-git-commit: 14c0dae30087e8245964d6bd80eb462f8450f168
+source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -32,6 +32,6 @@ AIを活用したアシスタントで、web サイト上に配置され、独�
 * Adobeチームが構成する機能との比較
 * 6週間から9週間の一般的なスケジュールとその影響
 
->[!VIDEO](https://video.tv.adobe.com/v/3495870/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
