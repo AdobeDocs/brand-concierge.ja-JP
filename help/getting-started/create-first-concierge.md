@@ -42,7 +42,7 @@ Adobeを初めて導入し、パーソナライズされた会話体験を提供
 * コンテンツソースを連携させて正確に回答する方法
 * ブランドボイスをカスタマイズし、エクスペリエンスをテストする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476522/?captions=jpn&learn=on)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
 
