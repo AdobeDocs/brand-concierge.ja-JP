@@ -6,7 +6,7 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 226
-last-substantial-update: 2026-01-06T00:00:00.000Z
+last-substantial-update: 2026-01-06
 jira: KT-19622
 TQID: https://experienceleague.adobe.com/4wW6FTaGpq-BrAvZzMh0PATAT2WkCuB-YRBCnGyJEYs
 product_v2:
@@ -20,7 +20,7 @@ topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
 workflow-type: tm+mt
 source-wordcount: 121
 ht-degree: 51%
