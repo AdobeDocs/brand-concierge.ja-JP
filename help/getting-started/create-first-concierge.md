@@ -42,7 +42,7 @@ ht-degree: 0%
 * 保存する前にブランドプロファイル、手順、スタータープロンプトを確認し、調整する方法
 * デスクトップとモバイルでサンプルの質問を使用してコンシェルジュをテストする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476522?captions=jpn&learn=on)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
 
