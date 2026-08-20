@@ -36,7 +36,7 @@ ht-degree: 0%
 
 _サイト アドバイザリースキルの例_
 
-![ サイト アドバイザリースキルの詳細パネルに、説明、トリガー、添付のナレッジベース検索の統合、スキル手順が表示されている](assets/skills-and-integrations-1.png){width="800" zoomable="yes"}
+![&#x200B; サイト アドバイザリースキルの詳細パネルに、説明、トリガー、添付のナレッジベース検索の統合、スキル手順が表示されている](assets/skills-and-integrations-1.png){width="800" zoomable="yes"}
 
 ## 統合
 
@@ -73,7 +73,7 @@ _サイト アドバイザリースキルの例_
 | エンティティリンク/製品カタログマッピング | ユーザーのメッセージ内の商品またはブランド言及を特定のカタログエンティティに解決します | 統合をサポートし、単独ではなく検索統合と並行して使用 |
 | COMMERCE MCP | Adobeで管理されるCommerce MCP サーバー：Adobe Live検索に裏打ちされた、商品検索、詳細、バリエーション、ファセット/属性の検出 | ベースラインにありません。Commerceのユースケース用に手動で追加 |
 
-![ コンテンツAI 検索、エンティティリンク、ナレッジベース検索、Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}の4つの統合カードが表示されている統合パネルを参照します
+![&#x200B; コンテンツAI 検索、エンティティリンク、ナレッジベース検索、Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}の4つの統合カードが表示されている統合パネルを参照します
 
 ## すぐに利用できるスキル
 
