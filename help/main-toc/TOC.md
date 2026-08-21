@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge について
-source-git-commit: 35e52ffb75d13d1580c85055d8393a18f6e63714
+source-git-commit: 16136f0d5470a39cbf260f4b1eadc6918d0212b4
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 29%
+source-wordcount: '75'
+ht-degree: 28%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 29%
 + ドキュメント {#documentation}
   + [Brand Concierge ヘルプ](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
+  + {hide-from-toc}[&#x200B; スキルと統合フレームワーク &#x200B;](../documentation/skills-and-integrations.md)
   + [よくある質問](../documentation/brand-concierge-faq.md)
 + リリースノート {#release-notes}
   + [現在のリリース情報](../release-notes/current.md)
