@@ -34,4 +34,4 @@ Adobe Brand Conciergeの出発点となるのは、Adobeで既に用意されて
 
 >[!VIDEO](https://video.tv.adobe.com/v/3502259)
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
