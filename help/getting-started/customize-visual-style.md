@@ -32,6 +32,6 @@ Adobe Brand Conciergeの出発点となるのは、Adobeで既に用意されて
 * ウェルカムメッセージの見出しと小見出し（テキストカラー、太さ、サイズなど）の編集方法
 * スタータープロンプトカード（カードテキスト、画像、背景色など）の追加、削除、編集の方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502259)
+>[!VIDEO](https://video.tv.adobe.com/v/3502260?captions=jpn)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
