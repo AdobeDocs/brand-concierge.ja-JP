@@ -34,4 +34,4 @@ Adobe Brand Conciergeが正しく回答し、範囲を限定し、複雑な質�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3502662)
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
