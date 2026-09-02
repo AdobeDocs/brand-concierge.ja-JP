@@ -34,4 +34,4 @@ Adobe Brand Conciergeを導入すれば、実際のweb サイト訪問者が利�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3502969?learn=on)
 
-ドキュメントについては、[ コンシェルジュのデプロイ ](../documentation/deployment/deployment.md)を参照してください。
+ドキュメントについては、[&#x200B; コンシェルジュのデプロイ &#x200B;](../documentation/deployment/deployment.md)を参照してください。

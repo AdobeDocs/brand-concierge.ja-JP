@@ -28,7 +28,7 @@ ht-degree: 20%
 + ドキュメント {#documentation}
   + [Brand Concierge ヘルプ](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
-  + {hide-from-toc}[ スキルと統合フレームワーク ](../documentation/skills-and-integrations.md)
+  + {hide-from-toc}[&#x200B; スキルと統合フレームワーク &#x200B;](../documentation/skills-and-integrations.md)
   + [よくある質問](../documentation/brand-concierge-faq.md)
   + 概要 {#overview}
     + {hide-from-toc}[Brand Conciergeの概要](../documentation/overview/overview.md)
