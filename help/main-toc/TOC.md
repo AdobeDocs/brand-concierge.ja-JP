@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge について
-source-git-commit: 2255c486351718718d7f729ae7f870446c955793
+source-git-commit: 498bbea05a689b36dd4b8f88e0867e7440fa1d38
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 21%
+source-wordcount: '130'
+ht-degree: 20%
 
 ---
 
@@ -20,6 +20,7 @@ ht-degree: 21%
   + [Marketoとの連携](../getting-started/integration-with-marketo.md)
   + [コンシェルジュのビジュアルスタイルをカスタマイズ](../getting-started/customize-visual-style.md)
   + [評価セットについて詳しく見る](../getting-started/learn-about-evaluation-sets.md)
+  + [コンシェルジュを展開する](../getting-started/deploy-the-concierge.md)
 + 運用開始ガイド {#go-live-guide}
   + [Adobe Commerceの本番稼動ジャーニーへの](../go-live/welcome.md)
   + [コンテンツと訪問者のエクスペリエンスの準備](../go-live/content-and-journey.md)
@@ -27,7 +28,7 @@ ht-degree: 21%
 + ドキュメント {#documentation}
   + [Brand Concierge ヘルプ](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
-  + {hide-from-toc}[&#x200B; スキルと統合フレームワーク &#x200B;](../documentation/skills-and-integrations.md)
+  + {hide-from-toc}[ スキルと統合フレームワーク ](../documentation/skills-and-integrations.md)
   + [よくある質問](../documentation/brand-concierge-faq.md)
   + 概要 {#overview}
     + {hide-from-toc}[Brand Conciergeの概要](../documentation/overview/overview.md)
