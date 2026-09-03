@@ -372,7 +372,7 @@ onEvent: (event) => {
       "entity_info": {
         "productName": "Adobe Photoshop",
         "productDescription": "Photo editing software",
-        "productPageURL": "https://www.adobe.com/products/photoshop.html",
+        "productPageURL": "https://www.adobe.com/jp/products/photoshop.html",
         "productImageURL": "https://example.com/photoshop.png"
       }
     }
