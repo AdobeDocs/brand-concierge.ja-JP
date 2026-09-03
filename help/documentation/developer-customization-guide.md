@@ -108,9 +108,9 @@ window.adobe.concierge.bootstrap({
 | パラメーター | タイプ | 必須 | 説明 |
 |---|---|---|---|
 | `instanceName` | string | ○ | Web SDK インスタンス名。 |
-| `stylingConfigurations` | JSON オブジェクト | ○ | Web クライアントのスタイル設定（[ ビジュアルおよびコンテンツのカスタマイズ ](#customization)を参照）。 |
+| `stylingConfigurations` | JSON オブジェクト | ○ | Web クライアントのスタイル設定（[&#x200B; ビジュアルおよびコンテンツのカスタマイズ &#x200B;](#customization)を参照）。 |
 | `selector` | string | ○ | Web クライアントがマウントするHTML要素のCSS セレクター。 |
-| `onEvent` | 関数 | × | クライアントサイドイベントのコールバック（[ クライアントサイドイベントとコールバック関数](#events)を参照）。 |
+| `onEvent` | 関数 | × | クライアントサイドイベントのコールバック（[&#x200B; クライアントサイドイベントとコールバック関数](#events)を参照）。 |
 
 ## ビジュアルとコンテンツのカスタマイズ {#customization}
 
@@ -568,7 +568,7 @@ ORDER BY timestamp ASC;
 
 >[!IMPORTANT]
 >
->上記の表名は単なる図であり、ハードコーディングしないでください。 最初にAEPでデータセットの実際のテーブル名を確認し（[ データセットとテーブル名の検索](#find-dataset)を参照）、時間フィルター、並べ替え順序、またはその他の句を調整して、レポートのニーズに合わせて調整します。 データセットと同じサンドボックスを使用して、組織のクエリサービスワークフロー（UI、API、または接続されたクライアント）からクエリを実行します。
+>上記の表名は単なる図であり、ハードコーディングしないでください。 最初にAEPでデータセットの実際のテーブル名を確認し（[&#x200B; データセットとテーブル名の検索](#find-dataset)を参照）、時間フィルター、並べ替え順序、またはその他の句を調整して、レポートのニーズに合わせて調整します。 データセットと同じサンドボックスを使用して、組織のクエリサービスワークフロー（UI、API、または接続されたクライアント）からクエリを実行します。
 
 ### クエリサービス UIでのクエリの実行 {#run-query-ui}
 
@@ -582,4 +582,4 @@ ORDER BY timestamp ASC;
 
 ### 関連トピックス {#further-reading}
 
-* [Query Service API ドキュメント ](https://experienceleague.adobe.com/ja/docs/experience-platform/query/home){target="_blank"} – このガイドとは関係なく、時間の経過とともに変化するQuery Serviceの動作、制限、認証、およびAPI パスに関するAdobeの公式リファレンス。
+* [Query Service API ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/query/home){target="_blank"} – このガイドとは関係なく、時間の経過とともに変化するQuery Serviceの動作、制限、認証、およびAPI パスに関するAdobeの公式リファレンス。
