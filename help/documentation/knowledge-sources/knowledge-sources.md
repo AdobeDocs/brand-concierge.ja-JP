@@ -2,9 +2,9 @@
 title: Brand Conciergeのナレッジソースの作成と管理
 description: Brand ConciergeのAEM Sites、Web サイトリンク、および製品カタログのナレッジソースを作成し、処理ステータスをモニターし、クロールの問題を解決する方法について説明します。
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -21,8 +21,6 @@ ht-degree: 1%
 >訪問者が設定されたナレッジソース以外の情報について質問した場合、コンシェルジュは、サポートされていない回答を生成する代わりに、情報がないことを示すように設計されています。 評価プロセスを使用して、この動作を検証します。
 
 ## ナレッジソースを選択
-
-ソース資料には、次のナレッジソースタイプが記載されています。
 
 | ナレッジソース | 次の場合に使用 | 主な能力 |
 | --- | --- | --- |
