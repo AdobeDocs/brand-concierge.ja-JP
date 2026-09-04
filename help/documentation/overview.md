@@ -4,10 +4,20 @@ description: Brand Conciergeの主な機能を設定して使用する方法に�
 role: User,Admin
 level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
-product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edcid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
 source-wordcount: 2047
@@ -35,8 +45,8 @@ Brand Conciergeには、次のような主要機能が搭載されています�
 
 Adobe Experience Cloud ダッシュボードからBrand Conciergeにアクセスできます。 大まかには、次のタスクを実行します。
 
-1. [Web サイトのURLからコンシェルジュ ](#homepage)を作成します。 開始ナレッジソース、ブランド表現、ベースラインスキルが自動的に生成されます。
-1. [必要に応じて、ナレッジソース ](#knowledge-sources)を確認して調整します。
+1. [Web サイトのURLからコンシェルジュ &#x200B;](#homepage)を作成します。 開始ナレッジソース、ブランド表現、ベースラインスキルが自動的に生成されます。
+1. [必要に応じて、ナレッジソース &#x200B;](#knowledge-sources)を確認して調整します。
 1. ベースラインスキルを超える追加スキルを[設定](#skills-configuration)します。
 1. [生成されたデフォルトの変更が必要な場合は、ブランド式](#brand-expression)を調整します。
 
@@ -66,7 +76,7 @@ Adobe Experience Cloud ダッシュボードからBrand Conciergeにアクセス
 1. 生成された指示、ガードレール、提案を確認し、必要に応じて調整します。
 1. 「**[!UICONTROL 保存]**」を選択します。 コンシェルジュはプレビューでテストする準備ができました。
 
-このフローの詳細（自動設定を含む）については、[ コンシェルジュの管理](./concierge-management/concierge-management.md)を参照してください。
+このフローの詳細（自動設定を含む）については、[&#x200B; コンシェルジュの管理](./concierge-management/concierge-management.md)を参照してください。
 
 >[!TIP]
 >
@@ -74,7 +84,7 @@ Adobe Experience Cloud ダッシュボードからBrand Conciergeにアクセス
 
 ### ナレッジソース {#knowledge-sources}
 
-[!UICONTROL  ナレッジソース ]は、コンシェルジュの回答に役立つデータソースの管理に役立ちます。 Web サイトのURLからコンシェルジュを作成すると、開始ナレッジソースが自動的に作成されます。この領域を使用してレビューするか、さらに追加します。 [!UICONTROL  ナレッジソース ]には、次のような重要な要素が数多くあります。
+[!UICONTROL &#x200B; ナレッジソース &#x200B;]は、コンシェルジュの回答に役立つデータソースの管理に役立ちます。 Web サイトのURLからコンシェルジュを作成すると、開始ナレッジソースが自動的に作成されます。この領域を使用してレビューするか、さらに追加します。 [!UICONTROL &#x200B; ナレッジソース &#x200B;]には、次のような重要な要素が数多くあります。
 
 * **Source リスト：** アップロードされたすべての項目（web サイトへのリンクを含むCSV ファイルなど）を表示し、それらのステータスが処理済みまたは保留中であることを示します。
 * **アップロードインターフェイス：** URLを含むCSV ファイルをドラッグ&amp;ドロップまたは参照できます。このファイルは、ナレッジの抽出にクロールされます。
@@ -119,7 +129,7 @@ Adobe Experience Cloud ダッシュボードからBrand Conciergeにアクセス
 1. 必要な統合を添付するか、**[!UICONTROL 推奨]**&#x200B;を使用を選択します。
 1. **[!UICONTROL 保存]**&#x200B;を選択し、ライブプレビューで変更をテストします。
 
-完全なスキルと統合カタログについては、[ スキルと統合フレームワーク ](./skills-and-integrations.md)を参照してください。
+完全なスキルと統合カタログについては、[&#x200B; スキルと統合フレームワーク &#x200B;](./skills-and-integrations.md)を参照してください。
 
 ### ブランド表現 {#brand-expression}
 
@@ -157,9 +167,9 @@ Adobe Experience Cloud ダッシュボードからBrand Conciergeにアクセス
 1. テストビューを使用して、エンドユーザーとの会話をシミュレートします。
 1. サムズアップとサムズダウンのメカニズムを使用して、受信した各応答を評価します。
 1. 親指を下げるための完全なフィードバックフォーム：
-   **応答のカバー範囲：**意図に対処しましたか？
-   **ブランドトーン：**は個性に沿っていますか？
-   **応答品質：**明確で構造化された状態ですか？
+   **応答のカバー範囲：**&#x200B;意図に対処しましたか？
+   **ブランドトーン：**&#x200B;は個性に沿っていますか？
+   **応答品質：**&#x200B;明確で構造化された状態ですか？
    **応答機能：**&#x200B;役に立つフォローアップ？
 1. コメントや特定の観察を追加します。
 1. ダッシュボードのレビュー用にフィードバックを送信します。

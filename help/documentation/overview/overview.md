@@ -26,8 +26,8 @@ Brand Conciergeの導入には、大きく分けて次の2つの部分があり�
 Composerでは、主なモジュールは次のとおりです。
 
 - [ユーザーとアクセスの管理](../user-and-access-management/add-a-user-to-the-org.md)
-- [ ナレッジソースの作成と管理](../knowledge-sources/knowledge-sources.md)、コンシェルジュ間で共有
-- [ コンシェルジュ管理](../concierge-management/concierge-management.md)：統合、スキル、コンシェルジュの指示、トーンとボイス、ビジュアルスタイル、チャットコンポーネント
+- [&#x200B; ナレッジソースの作成と管理](../knowledge-sources/knowledge-sources.md)、コンシェルジュ間で共有
+- [&#x200B; コンシェルジュ管理](../concierge-management/concierge-management.md)：統合、スキル、コンシェルジュの指示、トーンとボイス、ビジュアルスタイル、チャットコンポーネント
 - [評価結果](../evaluation/evaluation.md)
 - [デプロイメント](../deployment/deployment.md)
 - [運用開始チェックリスト](../go-live-checklist/go-live-checklist.md)
@@ -58,4 +58,4 @@ Composerでは、主なモジュールは次のとおりです。
 
 >[!NOTE]
 >
->マーケターは通常、[ ユーザーとアクセス管理](../user-and-access-management/add-a-user-to-the-org.md)を完全にスキップし（IT部門の誰かが1回のみ完了）、[ ナレッジソース ](../knowledge-sources/knowledge-sources.md)から開始できます。 ユーザーに戻り、新しいチームメイトを設定する場合にのみ管理にアクセスします。
+>マーケターは通常、[&#x200B; ユーザーとアクセス管理](../user-and-access-management/add-a-user-to-the-org.md)を完全にスキップし（IT部門の誰かが1回のみ完了）、[&#x200B; ナレッジソース &#x200B;](../knowledge-sources/knowledge-sources.md)から開始できます。 ユーザーに戻り、新しいチームメイトを設定する場合にのみ管理にアクセスします。

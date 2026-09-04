@@ -36,7 +36,7 @@ ht-degree: 0%
 
 _サイト アドバイザリースキルの例_
 
-![ サイト アドバイザリースキルの詳細パネルに、説明、トリガー、添付のナレッジベース検索の統合、スキル手順が表示されている](assets/skills-and-integrations-1.png){width="800" zoomable="yes"}
+![&#x200B; サイト アドバイザリースキルの詳細パネルに、説明、トリガー、添付のナレッジベース検索の統合、スキル手順が表示されている](assets/skills-and-integrations-1.png){width="800" zoomable="yes"}
 
 ## 統合
 
@@ -75,7 +75,7 @@ _サイト アドバイザリースキルの例_
 | ミーティング予約 | 訪問者は営業担当者との面談を予約できます | 営業担当者のカレンダーを同梱のSales Qualifier製品で設定する必要があります |
 | ライブチャット | 訪問者と営業担当者の連携 | 営業担当者の空き状況を伴う設定が必要です（同梱のSales Qualifier製品を使用）。 |
 
-![ コンテンツAI 検索、エンティティリンク、ナレッジベース検索、Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}の4つの統合カードが表示されている統合パネルを参照します
+![&#x200B; コンテンツAI 検索、エンティティリンク、ナレッジベース検索、Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}の4つの統合カードが表示されている統合パネルを参照します
 
 ## すぐに利用できるスキル
 
