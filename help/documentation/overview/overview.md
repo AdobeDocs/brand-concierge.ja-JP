@@ -1,10 +1,10 @@
 ---
 title: Brand Conciergeの概要
 description: Brand Conciergeとは何か、その主なコンポーネントの組み合わせ方、Composerのインターフェイス全体で使用される主な用語の用語集について説明します。
-source-git-commit: 3da67605a43e949046260651253bbe0f2f0215fc
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 1%
+source-wordcount: '509'
+ht-degree: 2%
 
 ---
 
@@ -21,17 +21,17 @@ Brand Conciergeの導入には、大きく分けて次の2つの部分があり�
 | **訪問者エクスペリエンス** | web サイトやモバイルアプリなど、訪問者がコンシェルジュと接触し、リアルタイムで回答を得るブランド向けのサーフェス。 |
 | **コンポーザー** | 実務担当者のインターフェイスを使用して、コンシェルジュエクスペリエンスを設計し、コンシェルジュ、統合、設定、評価、デプロイメント、分析を管理できます。 |
 
-## このガイドで取り上げるコンポーザーモジュール
+## Composer モジュール
 
-Composer内では、主なモジュール（およびこのガイドで説明するモジュール）は次のとおりです。
+Composerでは、主なモジュールは次のとおりです。
 
-- ユーザー管理（セクション 3）
-- コンシェルジュ間で共有されるナレッジソースの作成と管理（セクション 4）
-- コンシェルジュ管理：統合、スキル、コンシェルジュの指示、トーンとボイス、ビジュアルスタイル、チャットコンポーネント（セクション 5）
-- 評価（セクション 6）
-- 展開（セクション 7）
-- 運用開始チェックリスト（セクション 8）
-- 分析（セクション 9）
+- [ユーザーとアクセスの管理](../user-and-access-management/add-a-user-to-the-org.md)
+- [ ナレッジソースの作成と管理](../knowledge-sources/knowledge-sources.md)、コンシェルジュ間で共有
+- [ コンシェルジュ管理](../concierge-management/concierge-management.md)：統合、スキル、コンシェルジュの指示、トーンとボイス、ビジュアルスタイル、チャットコンポーネント
+- [評価結果](../evaluation/evaluation.md)
+- [デプロイメント](../deployment/deployment.md)
+- [運用開始チェックリスト](../go-live-checklist/go-live-checklist.md)
+- [Analytics](../analytics/analytics.md)
 
 ## パーツの接続方法
 
@@ -58,4 +58,4 @@ Composer内では、主なモジュール（およびこのガイドで説明す
 
 >[!NOTE]
 >
->マーケターは通常、セクション 3、*ユーザーとアクセス管理*&#x200B;を完全にスキップし（IT部門の誰かが1回だけ完了します）、セクション 4、*ナレッジソース*&#x200B;から開始できます。 新しいチームメイトを設定する場合にのみ、セクション 3に戻ります。
+>マーケターは通常、[ ユーザーとアクセス管理](../user-and-access-management/add-a-user-to-the-org.md)を完全にスキップし（IT部門の誰かが1回のみ完了）、[ ナレッジソース ](../knowledge-sources/knowledge-sources.md)から開始できます。 ユーザーに戻り、新しいチームメイトを設定する場合にのみ管理にアクセスします。

@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge について
-source-git-commit: 13db0491c987a08492820ac216e20feb87f30e44
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 20%
+source-wordcount: '154'
+ht-degree: 17%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 20%
 + ドキュメント {#documentation}
   + [Brand Concierge ヘルプ](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
-  + {hide-from-toc}[&#x200B; スキルと統合フレームワーク &#x200B;](../documentation/skills-and-integrations.md)
+  + {hide-from-toc}[ スキルと統合フレームワーク ](../documentation/skills-and-integrations.md)
   + [開発者向けガイド](../documentation/developer-customization-guide.md)
   + [よくある質問](../documentation/brand-concierge-faq.md)
   + 概要 {#overview}
@@ -39,17 +39,17 @@ ht-degree: 20%
     + {hide-from-toc}[役割にユーザーを追加](../documentation/user-and-access-management/add-a-user-to-the-role.md)
     + {hide-from-toc}[役割を作成](../documentation/user-and-access-management/create-a-role.md)
   + ナレッジソース {#knowledge-sources}
-    + {hide-from-toc}[ks](../documentation/knowledge-sources/knowledge-sources.md)
+    + {hide-from-toc}[Brand Conciergeのナレッジソースの作成と管理](../documentation/knowledge-sources/knowledge-sources.md)
   + Concierge management {#concierge-management}
-    + {hide-from-toc}[cm](../documentation/concierge-management/concierge-management.md)
+    + {hide-from-toc}[ コンシェルジュの管理](../documentation/concierge-management/concierge-management.md)
   + 評価結果 {#evaluation}
-    + {hide-from-toc}[e](../documentation/evaluation/evaluation.md)
+    + {hide-from-toc}[ コンシェルジュの評価](../documentation/evaluation/evaluation.md)
   + デプロイメント {#deployment}
-    + {hide-from-toc}[d](../documentation/deployment/deployment.md)
+    + {hide-from-toc}[ コンシェルジュの展開](../documentation/deployment/deployment.md)
   + 運用開始チェックリスト {#go-live-checklist}
-    + {hide-from-toc}[glc](../documentation/go-live-checklist/go-live-checklist.md)
+    + コンシェルジュ向け{hide-from-toc}[公開チェックリスト ](../documentation/go-live-checklist/go-live-checklist.md)
   + Analytics {#analytics}
-    + {hide-from-toc}[a](../documentation/analytics/analytics.md)
+    + {hide-from-toc}[ コンシェルジュパフォーマンスの分析](../documentation/analytics/analytics.md)
 + リリースノート {#release-notes}
   + [現在のリリース情報](../release-notes/current.md)
 + {hide-from-toc}[Brand Conciergeのデモ - Value Video](../demo-videos/demo-for-brand-concierge-value-video.md)

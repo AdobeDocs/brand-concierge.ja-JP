@@ -1,9 +1,9 @@
 ---
 title: Brand Concierge権限を持つロールの作成
 description: ロールを作成し、Brand Conciergeへのアクセスに必要な権限を付与する方法について説明します。
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '212'
 ht-degree: 1%
 
 ---
@@ -21,10 +21,6 @@ Adobe Experience Platform権限でロールを作成して、ユーザーにBran
 ## 役割の作成
 
 1. `experienceplatform.adobe.com`にログインします。
-
-   >[!NOTE]
-   >
-   >この手順を公開する前に、エンジニアリングで実稼動URLを確認します。 ソースの記録に非公式な、あるいは文字起こしされていない可能性のあるURLが使用されていました。
 
 1. 左側のナビゲーションで、**権限**&#x200B;までスクロールして選択します。
 1. **役割**&#x200B;に移動して既存の役割を表示し、**新しい役割を作成**&#x200B;を選択します。
@@ -45,8 +41,3 @@ Adobe Experience Platform権限でロールを作成して、ユーザーにBran
 ## 次の手順
 
 役割を作成したら、その役割にユーザーを追加します。 詳しくは、[Brand Concierge ロールにユーザーを追加](./add-a-user-to-the-role.md)を参照してください。
-
-## 注意事項
-
-- サンドボックスの作成と管理のプロセスは、この手順の範囲外です。
-- 長期的なロールモデルを定義する前に、Brand Conciergeの詳細な権限を追加する予定があるかどうかを確認します。
