@@ -2,9 +2,9 @@
 title: Brand Conciergeのナレッジソースの作成と管理
 description: Brand ConciergeのAEM Sites、Web サイトリンク、および製品カタログのナレッジソースを作成し、処理ステータスをモニターし、クロールの問題を解決する方法について説明します。
 hide: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '856'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Brand Conciergeでは、次のナレッジソースタイプをサポートし�
 
 >[!IMPORTANT]
 >
->Adobe Commerceを通じて大規模なカタログを販売する場合は、代わりにCommerce MCP統合を使用する必要があります。 その統合に関する詳細は、この記事の範囲外です。
+>Adobe Commerceを通じて大規模なカタログを販売する場合は、代わりにCommerce MCP統合を使用する必要があります。
 
 ## AEM Sites ナレッジソースの作成
 
