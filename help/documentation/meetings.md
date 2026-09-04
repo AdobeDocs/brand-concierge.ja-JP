@@ -4,9 +4,13 @@ description: カレンダーの連携、空き状況、メンバーへのアク�
 level: Beginner
 role: User,Admin
 TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
-product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: fc5e30918271360ea2256b49d1c200fb3eda298b
 workflow-type: tm+mt
 source-wordcount: 338
@@ -32,11 +36,11 @@ OutlookやGoogleのアカウントに接続し、曜日、タイムゾーン、�
 
 1. **[!UICONTROL Sales Qualifier]**&#x200B;を選択します。
 
-   ![Adobe Experience Platform ホームページ ](assets/meetings-connect-1.png){width="800" zoomable="yes"}
+   ![Adobe Experience Platform ホームページ &#x200B;](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
 1. _設定_&#x200B;で、**プロファイル設定**&#x200B;をクリックします。 「**[!UICONTROL カレンダー設定]**」タブで、目的のカレンダーを選択します。
 
-   ![ カレンダー設定ページ ](assets/meetings-connect-2.png)
+   ![&#x200B; カレンダー設定ページ &#x200B;](assets/meetings-connect-2.png)
 
 1. 既にサインインしているアカウントを選択するか、新しいアカウントを追加します。
 
@@ -54,15 +58,15 @@ OutlookやGoogleのアカウントに接続し、曜日、タイムゾーン、�
 
 1. 「**[!UICONTROL カレンダーの空き状況]**」タブをクリックします。
 
-   ![空のカレンダーの空き状況ページ ](assets/meetings-availability-1.png)
+   ![空のカレンダーの空き状況ページ &#x200B;](assets/meetings-availability-1.png)
 
 1. 必要な設定を選択します。
 
    >[!NOTE]
    >
-   >さらに時間オプションを追加するには、プラス記号（![ プラス記号アイコン ](assets/icon-plus-sign.png)）をクリックします。
+   >さらに時間オプションを追加するには、プラス記号（![&#x200B; プラス記号アイコン &#x200B;](assets/icon-plus-sign.png)）をクリックします。
 
-   すべてのフィールドが入力された![ カレンダーの空き状況ページ ](assets/meetings-availability-2.png)
+   すべてのフィールドが入力された![&#x200B; カレンダーの空き状況ページ &#x200B;](assets/meetings-availability-2.png)
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -70,14 +74,14 @@ OutlookやGoogleのアカウントに接続し、曜日、タイムゾーン、�
 
 1. 「**[!UICONTROL ライブチャットの利用状況]**」タブをクリックし、必要な設定を選択します。 終了したら「**保存**」をクリックします。
 
-   ![すべてのフィールドが入力されたライブチャットの可用性ページ ](assets/meetings-availability-3.png)
+   ![すべてのフィールドが入力されたライブチャットの可用性ページ &#x200B;](assets/meetings-availability-3.png)
 
 
 ### メンバーを管理 {#manage}
 
 **管理者のみ**。 カレンダーの接続に成功した担当者を確認します。
 
-![代表管理ページ ](assets/manage-members-1.png)
+![代表管理ページ &#x200B;](assets/manage-members-1.png)
 
 ## アクティビティ {#activities}
 
@@ -85,7 +89,7 @@ OutlookやGoogleのアカウントに接続し、曜日、タイムゾーン、�
 
 ### ミーティングページ {#bookings}
 
-![会議の予約ページ ](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
+![会議の予約ページ &#x200B;](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
 
 ## Analytics {#analytics}
 
@@ -93,4 +97,4 @@ OutlookやGoogleのアカウントに接続し、曜日、タイムゾーン、�
 
 ### ミーティングページ {#performance}
 
-![会議パフォーマンス ページ ](assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![会議パフォーマンス ページ &#x200B;](assets/meetings-performance-1.png){width="800" zoomable="yes"}
