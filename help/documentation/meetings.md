@@ -1,6 +1,6 @@
 ---
-title: ミーティングの設定と設定
-description: Adobe Brand Conciergeでミーティングを設定および設定する方法について説明します。
+title: ミーティング予約の設定と設定
+description: カレンダーの連携、空き状況、メンバーへのアクセス、パフォーマンス分析など、Adobe Brand Conciergeでミーティング予約を設定する方法を説明します。
 level: Beginner
 role: User,Admin
 TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
@@ -11,14 +11,14 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
+source-git-commit: fc5e30918271360ea2256b49d1c200fb3eda298b
 workflow-type: tm+mt
-source-wordcount: 329
+source-wordcount: 338
 ht-degree: 4%
 
 ---
 
-# Meetings {#meetings}
+# ミーティング予約 {#meetings}
 
 Adobe Brand Conciergeの&#x200B;_会議_&#x200B;のすべての設定を確認します。 カレンダーの接続、空き状況の設定、分析結果の表示など、さまざまな機能を利用できます。
 
@@ -34,7 +34,7 @@ OutlookやGoogleのアカウントに接続し、曜日、タイムゾーン、�
 
 1. [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}にログインします。
 
-1. **[!UICONTROL 販売修飾子]**&#x200B;を選択します。
+1. **[!UICONTROL Sales Qualifier]**&#x200B;を選択します。
 
    ![Adobe Experience Platform ホームページ &#x200B;](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
