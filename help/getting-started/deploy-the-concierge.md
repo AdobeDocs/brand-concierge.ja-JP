@@ -32,6 +32,6 @@ Adobe Brand Conciergeを導入すれば、実際のweb サイト訪問者が利�
 * スクリプトのフルページのインストールオプションと比較したコンポーネントインストール
 * ドメインとパスを一致させてサーフェスルールを設定する方法（任意、で始まる、で終わる、等しい）
 
->[!VIDEO](https://video.tv.adobe.com/v/3502969?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502982?captions=jpn&learn=on)
 
 ドキュメントについては、[&#x200B; コンシェルジュのデプロイ &#x200B;](../documentation/deployment/deployment.md)を参照してください。
