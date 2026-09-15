@@ -8,14 +8,14 @@ doc-type: Technical Video
 duration: 215
 last-substantial-update: 2026-09-14
 jira: KT-22594
-source-git-commit: 26c875494ae9f38fcddbd0a9779f6fa659db3683
+source-git-commit: e15924679ac2731ef367416160368459ef88167a
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 ---
 # 音声会話
 
-Adobe Brand Conciergeは、顧客が入力しなくてもコンシェルジュと話すことができる、ハンズフリーの音声合成会話モードをサポートしています。 このビデオでは、音声モードの有効化、自動音声検出によってボタンを押す必要がなくなった方法、およびコンシェルジュのマルチモーダル体験に音声がテキストとビジュアル応答に沿って組み込まれる方法について説明します。
+Adobe Brand Conciergeは、顧客が入力しなくてもコンシェルジュと話すことができる、ハンズフリーの音声合成会話モードをサポートしています。 このビデオでは、音声モードを有効にする、自動音声検出によってボタンを押す必要がなくなる仕組み、テキストとビジュアル応答に加えてコンシェルジュのフルマルチモーダル体験に音声がどのように適合するかを説明します。
 
 ## この動画は誰のためのものでしょうか？
 
@@ -33,4 +33,4 @@ Adobe Brand Conciergeは、顧客が入力しなくてもコンシェルジュ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
