@@ -33,4 +33,4 @@ Adobe Brand Conciergeは、顧客が入力しなくてもコンシェルジュ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
