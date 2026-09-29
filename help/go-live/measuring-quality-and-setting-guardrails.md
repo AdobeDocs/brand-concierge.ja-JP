@@ -1,5 +1,5 @@
 ---
-title: 品質の測定とガードレールの設定 – ビデオ
+title: 品質の測定とガードレールの設定
 description: Adobe Brand Conciergeの品質を測定し、機密性の高い訪問者の質問に対するガードレールを定義するために、膨大な質問と理想的な回答を構築する方法を説明します。
 topic: Personalization,Integrations
 role: Developer
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 174
 last-substantial-update: 2026-09-29
 jira: KT-22188
-source-git-commit: 4cc80eef685fbfc26adaf0b9c47f61e935d45882
+source-git-commit: cd3fb3664f1eb60cba7cae83b8539871b3dcfb72
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '166'
 ht-degree: 0%
 ---
 
@@ -31,8 +31,7 @@ Adobe Brand Conciergeを導入する前に、データへの適切な回答を�
 * 含める質問と回答のペアの数と、対応するカテゴリー
 * 範囲外の例が重要な理由と、コンシェルジュがそれを辞退する方法
 * AIが生成したゴールデンセットの第一稿を使用して
-* ミーティング予約、ライブ担当者による引き継ぎ、価格設定、法的請求、競合他社の言及に関するルールの定義
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
