@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge について
-source-git-commit: 6a2f85d34995ed1d3c471f7ab658ca8cfe4edb83
+source-git-commit: 4cc80eef685fbfc26adaf0b9c47f61e935d45882
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 17%
+source-wordcount: '163'
+ht-degree: 16%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -25,6 +25,7 @@ ht-degree: 17%
   + [Adobe Commerceの本番稼動ジャーニーへの](../go-live/welcome.md)
   + [コンテンツと訪問者のエクスペリエンスの準備](../go-live/content-and-journey.md)
   + [あなたの声とウィジェットを形成](../go-live/voice-and-visuals.md)
+  + [品質の測定とガードレールの設定](../go-live/measuring-quality-and-setting-guardrails.md)
 + ドキュメント {#documentation}
   + [Brand Concierge ヘルプ](../documentation/overview.md)
   + [Meetings](../documentation/meetings.md)
