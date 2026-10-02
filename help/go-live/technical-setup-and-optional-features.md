@@ -34,4 +34,4 @@ Adobe Adobe Brand Conciergeに対応したweb サイトを構築し、訪問者�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
