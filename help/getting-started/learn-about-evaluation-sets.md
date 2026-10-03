@@ -39,6 +39,6 @@ ht-degree: 0%
 * 評価を実行し、全体的なスコアとフラグ付き質問を確認する方法
 * コンシェルジュの実際の回答と、フラグ付き質問ごとに予想される回答を比較する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3502662)
+>[!VIDEO](https://video.tv.adobe.com/v/3502663?captions=jpn)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。

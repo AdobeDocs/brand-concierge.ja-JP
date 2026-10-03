@@ -36,6 +36,6 @@ Brand Conciergeを利用して、web サイトとMarketo Engageの連携を強�
 * リードのアクティビティログに記録されたネイティブの「Scheduled Meeting in Concierge」アクティビティタイプ（ミーティング時間、セールスステップ、ルーティングタイプ、予約ステータスなど）
 * Marketo Smart CampaignsでBrand Conciergeのアクティビティタイプをトリガー、フィルター、バッチキャンペーンデータとして使用する方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492251?captions=jpn&learn=on)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。

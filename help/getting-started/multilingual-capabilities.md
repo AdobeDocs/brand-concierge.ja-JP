@@ -38,6 +38,6 @@ Adobe Brand Conciergeは、コンシェルジュを作成するときに選択�
 * 選択した応答言語が回答とスタータープロンプトカードに与える影響
 * カタログやweb サイト URLなどのインポートされたナレッジソースがローカライズされた応答をどのようにサポートするか
 
->[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503889?captions=jpn&learn=on)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。

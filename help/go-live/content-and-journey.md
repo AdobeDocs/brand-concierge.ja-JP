@@ -39,7 +39,7 @@ Adobe Brand Conciergeでは、利用者が提供するコンテンツだけで�
 * コンテンツを共有する前に準備する方法
 * ワンページの訪問者ジャーニー定義の作成方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496008/?captions=jpn&learn=on)
 
 ## このシリーズの関連動画
 
