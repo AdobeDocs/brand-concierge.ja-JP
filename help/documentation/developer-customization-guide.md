@@ -4,13 +4,22 @@ description: Brand Concierge Web SDKとWeb クライアントのインストー�
 role: Developer,Admin
 level: Experienced
 toc: true
-source-git-commit: 13db0491c987a08492820ac216e20feb87f30e44
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1168'
 ht-degree: 4%
-
 ---
-
 
 # 開発者向けガイド {#developer-customization-guide}
 
@@ -108,9 +117,9 @@ window.adobe.concierge.bootstrap({
 | パラメーター | タイプ | 必須 | 説明 |
 |---|---|---|---|
 | `instanceName` | string | ○ | Web SDK インスタンス名。 |
-| `stylingConfigurations` | JSON オブジェクト | ○ | Web クライアントのスタイル設定（[&#x200B; ビジュアルおよびコンテンツのカスタマイズ &#x200B;](#customization)を参照）。 |
+| `stylingConfigurations` | JSON オブジェクト | ○ | Web クライアントのスタイル設定（[ ビジュアルおよびコンテンツのカスタマイズ ](#customization)を参照）。 |
 | `selector` | string | ○ | Web クライアントがマウントするHTML要素のCSS セレクター。 |
-| `onEvent` | 関数 | × | クライアントサイドイベントのコールバック（[&#x200B; クライアントサイドイベントとコールバック関数](#events)を参照）。 |
+| `onEvent` | 関数 | × | クライアントサイドイベントのコールバック（[ クライアントサイドイベントとコールバック関数](#events)を参照）。 |
 
 ## ビジュアルとコンテンツのカスタマイズ {#customization}
 
@@ -372,7 +381,7 @@ onEvent: (event) => {
       "entity_info": {
         "productName": "Adobe Photoshop",
         "productDescription": "Photo editing software",
-        "productPageURL": "https://www.adobe.com/jp/products/photoshop.html",
+        "productPageURL": "https://www.adobe.com/products/photoshop.html",
         "productImageURL": "https://example.com/photoshop.png"
       }
     }
@@ -568,7 +577,7 @@ ORDER BY timestamp ASC;
 
 >[!IMPORTANT]
 >
->上記の表名は単なる図であり、ハードコーディングしないでください。 最初にAEPでデータセットの実際のテーブル名を確認し（[&#x200B; データセットとテーブル名の検索](#find-dataset)を参照）、時間フィルター、並べ替え順序、またはその他の句を調整して、レポートのニーズに合わせて調整します。 データセットと同じサンドボックスを使用して、組織のクエリサービスワークフロー（UI、API、または接続されたクライアント）からクエリを実行します。
+>上記の表名は単なる図であり、ハードコーディングしないでください。 最初にAEPでデータセットの実際のテーブル名を確認し（[ データセットとテーブル名の検索](#find-dataset)を参照）、時間フィルター、並べ替え順序、またはその他の句を調整して、レポートのニーズに合わせて調整します。 データセットと同じサンドボックスを使用して、組織のクエリサービスワークフロー（UI、API、または接続されたクライアント）からクエリを実行します。
 
 ### クエリサービス UIでのクエリの実行 {#run-query-ui}
 
@@ -582,4 +591,4 @@ ORDER BY timestamp ASC;
 
 ### 関連トピックス {#further-reading}
 
-* [Query Service API ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-platform/query/home){target="_blank"} – このガイドとは関係なく、時間の経過とともに変化するQuery Serviceの動作、制限、認証、およびAPI パスに関するAdobeの公式リファレンス。
+* [Query Service API ドキュメント ](https://experienceleague.adobe.com/ja/docs/experience-platform/query/home){target="_blank"} – このガイドとは関係なく、時間の経過とともに変化するQuery Serviceの動作、制限、認証、およびAPI パスに関するAdobeの公式リファレンス。

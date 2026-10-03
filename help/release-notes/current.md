@@ -1,17 +1,18 @@
 ---
-description: Adobe Brand Conciergeの最新のリリースノート。
+description: Adobe Brand Conciergeの現在のリリースノート。
 title: 最新のリリースノート
 feature: Release Information
-source-git-commit: 35ce8a7b460e97336246293ad5e53ee83ead5108
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1046'
 ht-degree: 0%
-
 ---
-
 # 現在のリリース情報 {#current-release-notes}
 
-Adobe Brand Conciergeは、継続的な配信モデルに従っており、Adobeが継続的に新しい機能、拡張機能、修正を提供することを可能にします。
+Adobe Brand Conciergeは、継続的な配信モデルに従っており、Adobeによって継続的に新しい機能、拡張機能、修正を提供できます。
 
 特に明記されていない限り、すべての機能は一般に利用可能です。
 

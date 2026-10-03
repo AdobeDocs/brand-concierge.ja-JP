@@ -2,13 +2,14 @@
 title: コンシェルジュの評価
 description: 評価セットを作成し、機能的、範囲外、および保護的な評価を実行して、コンシェルジュの回答の正確性と安全性を評価する方法を説明します。
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%
-
 ---
-
 
 # コンシェルジュの評価
 

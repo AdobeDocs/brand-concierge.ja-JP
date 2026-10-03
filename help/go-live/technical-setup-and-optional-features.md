@@ -8,9 +8,18 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 223
-last-substantial-update: 2026-10-02
+last-substantial-update: 2026-10-02T00:00:00.000Z
 jira: KT-22189
-source-git-commit: fb269417444109f339fd1301a6fce7733463c37e
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -34,4 +43,4 @@ Adobe Adobe Brand Conciergeに対応したweb サイトを構築し、訪問者�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。

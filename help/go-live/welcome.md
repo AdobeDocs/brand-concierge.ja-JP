@@ -1,24 +1,31 @@
 ---
 title: 運用開始ジャーニー- ビデオ
-description: 準備、設定、検証、ロールアウトの各フェーズと、6週間から9週間の一般的なタイムラインについて、Adobe Brand Conciergeの運用開始ジャーニーをプレビューします。
+description: Adobe Adobe Brand Conciergeの運用開始までの流れをプレビューし、準備、設定、検証、展開の各フェーズと、6週間から9週間の一般的なタイムラインについて説明します。
 topic: Personalization,Integrations
 role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 150
-last-substantial-update: 2026-07-10T00:00:00Z
+last-substantial-update: 2026-07-10T00:00:00.000Z
 jira: KT-21745
-source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
-
 ---
-
 
 # Adobe Commerceの本番稼動ジャーニーへの
 
-AIを活用したアシスタントで、web サイト上に配置され、独自のコンテンツとブランドボイスを使用して訪問者の質問に回答する、Adobe Brand Conciergeを活用しましょう。 本番稼働はガイド付きの短いプロセスです。このビデオでは、開始する前に、そのジャーニーの概要を説明します。
+AIを活用したアシスタントであるAdobe Brand Conciergeをweb サイトに配置し、訪問者の質問に独自のコンテンツとブランドボイスを使用して回答することで、すぐに公開できます。 本番稼働はガイド付きの短いプロセスです。このビデオでは、開始する前に、そのジャーニーの概要を説明します。
 
 ## この動画は誰のためのものでしょうか？
 
@@ -32,6 +39,6 @@ AIを活用したアシスタントで、web サイト上に配置され、独�
 * Adobeチームが構成する機能との比較
 * 6週間から9週間の一般的なスケジュールとその影響
 
->[!VIDEO](https://video.tv.adobe.com/v/3495870/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。

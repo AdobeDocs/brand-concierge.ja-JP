@@ -2,13 +2,14 @@
 title: コンシェルジュの管理
 description: web サイトからBrand Conciergeを作成し、統合機能、スキル、手順、トーン、ビジュアルスタイルを設定し、デプロイメント前にテストする方法について説明します。
 toc: true
-source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1761'
 ht-degree: 1%
-
 ---
-
 
 # コンシェルジュの管理
 
