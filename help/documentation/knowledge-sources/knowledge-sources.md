@@ -2,13 +2,14 @@
 title: Brand Conciergeのナレッジソースの作成と管理
 description: Brand ConciergeのAEM Sites、Web サイトリンク、および製品カタログのナレッジソースを作成し、処理ステータスをモニターし、クロールの問題を解決する方法について説明します。
 hide: true
-source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '856'
 ht-degree: 1%
-
 ---
-
 
 # Brand Conciergeのナレッジソースの作成と管理
 

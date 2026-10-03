@@ -1,13 +1,14 @@
 ---
 title: Brand Conciergeの概要
 description: Brand Conciergeとは何か、その主なコンポーネントの組み合わせ方、Composerのインターフェイス全体で使用される主な用語の用語集について説明します。
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '509'
 ht-degree: 2%
-
 ---
-
 # Brand Conciergeの概要
 
 Brand Conciergeは、企業やブランドが、web サイト、モバイルアプリ、その他のデジタルプロパティなど、顧客と接するサーフェスでパーソナライズされた会話体験を立ち上げることを可能にするエージェント型プラットフォームです。 あらゆるコミュニケーションは、ブランド独自のコンテンツとガードレールに基づいています。そして、それらの会話から得たインサイトは、Marketo Engageなどのブランドのエコシステム全体に反映されます。

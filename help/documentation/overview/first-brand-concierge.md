@@ -1,13 +1,14 @@
 ---
 title: 初めてのBrand Conciergeの構築とテスト
 description: コンシェルジュを作成し、ブランド体験をカスタマイズし、評価を実施し、関係者のフィードバック用にプレビューリンクを共有します。
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
-
 ---
-
 # 初めてのBrand Conciergeの構築とテスト
 
 この記事では、コンシェルジュの作成とレビューの準備（初期設定からフィードバック用の共有まで）について説明します。

@@ -4,13 +4,22 @@ description: Brand Concierge Web SDKとWeb クライアントのインストー�
 role: Developer,Admin
 level: Experienced
 toc: true
-source-git-commit: 13db0491c987a08492820ac216e20feb87f30e44
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1168'
 ht-degree: 4%
-
 ---
-
 
 # 開発者向けガイド {#developer-customization-guide}
 
