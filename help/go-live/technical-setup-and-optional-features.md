@@ -41,6 +41,6 @@ Adobe Adobe Brand Conciergeに対応したweb サイトを構築し、訪問者�
 * 担当者の空き状況、訪問者のトリガー、ミーティング予約のフォールバックを利用したライブチャットの実現
 * 管理者アクセス権と機能フラグを使用して、Marketo Engageを接続してリードとアクティビティを受け取る
 
->[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504076/?captions=jpn&learn=on)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
