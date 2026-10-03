@@ -38,4 +38,4 @@ Brand Conciergeを利用して、web サイトとMarketo Engageの連携を強�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
