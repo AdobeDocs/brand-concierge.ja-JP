@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '180'
 ht-degree: 0%
 ---
 
@@ -39,6 +39,15 @@ ht-degree: 0%
 * ウィジェットの視覚的な選択肢：配置、表示モード、カラー、フォント
 * アシスタントの命名、挨拶の作成、スタータープロンプトの選択を行います
 
->[!VIDEO](https://video.tv.adobe.com/v/3496943/?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+## 関連チュートリアル
+
+* [Adobe Commerceの本番稼動ジャーニーへの](welcome.md)
+* [コンテンツと訪問者のジャーニーの準備](content-and-journey.md)
+* [品質の測定とガードレールの設定](measuring-quality-and-setting-guardrails.md)
+* [技術的な設定とオプション機能](technical-setup-and-optional-features.md)
+* [公開前のチェックリストとロールアウトプラン](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge go-live checklist playlist](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
