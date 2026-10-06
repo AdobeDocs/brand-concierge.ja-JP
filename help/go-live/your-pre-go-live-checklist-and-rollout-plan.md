@@ -48,4 +48,4 @@ Adobe Brand Conciergeを起動する前に、コンテンツ、ブランド設�
 * [技術的な設定とオプション機能](technical-setup-and-optional-features.md)
 * [Brand Concierge go-live checklist playlist](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。

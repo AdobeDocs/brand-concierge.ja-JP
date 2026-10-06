@@ -52,4 +52,4 @@ Adobe Adobe Brand Conciergeに対応したweb サイトを構築し、訪問者�
 * [公開前のチェックリストとロールアウトプラン](your-pre-go-live-checklist-and-rollout-plan.md)
 * [Brand Concierge go-live checklist playlist](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
