@@ -39,7 +39,7 @@ AIを活用したアシスタントであるAdobe Brand Conciergeをweb サイ�
 * Adobeチームが構成する機能との比較
 * 6週間から9週間の一般的なスケジュールとその影響
 
->[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495870/?captions=jpn&learn=on)
 
 ## 関連チュートリアル
 

@@ -41,7 +41,7 @@ Adobe Brand Conciergeを導入する前に、データへの適切な回答を�
 * 範囲外の例が重要な理由と、コンシェルジュがそれを辞退する方法
 * AIが生成したゴールデンセットの第一稿を使用して
 
->[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503943/?captions=jpn&learn=on)
 
 ## 関連チュートリアル
 
