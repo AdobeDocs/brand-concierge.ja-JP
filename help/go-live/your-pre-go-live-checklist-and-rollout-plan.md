@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 269
 last-substantial-update: 2026-10-05
 jira: KT-22190
-source-git-commit: 024fc10eacb22a8292e51891458fc57253455afc
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '296'
 ht-degree: 0%
 ---
 
@@ -35,8 +35,17 @@ Adobe Brand Conciergeを起動する前に、コンテンツ、ブランド設�
 * 関係者の承認を得て、Adobeリソースを使用して技術的な準備状況を確認します。
 * 段階的な展開を計画し、成果が次のステージをサポートする場合にのみ進めます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3504106/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504107/?captions=jpn&learn=on)
 
 社内の関係者から始めて、エンドツーエンドの包括的なフローをテストできます。 そして、ターゲットページの5%のような小規模な初期ロールアウトを検討し、25%、50%、最終的には100%に拡大します。 これらはステージの例であり、固定スケジュールではありません。 本格展開から少なくとも毎週、分析ダッシュボードで監視を続けます。
+
+## 関連チュートリアル
+
+* [Adobe Commerceの本番稼動ジャーニーへの](welcome.md)
+* [あなたの声とウィジェットを形成](voice-and-visuals.md)
+* [コンテンツと訪問者のジャーニーの準備](content-and-journey.md)
+* [品質の測定とガードレールの設定](measuring-quality-and-setting-guardrails.md)
+* [技術的な設定とオプション機能](technical-setup-and-optional-features.md)
+* [Brand Concierge go-live checklist playlist](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。

@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '197'
 ht-degree: 0%
 ---
 
@@ -40,5 +40,14 @@ AIを活用したアシスタントであるAdobe Brand Conciergeをweb サイ�
 * 6週間から9週間の一般的なスケジュールとその影響
 
 >[!VIDEO](https://video.tv.adobe.com/v/3495870/?captions=jpn&learn=on)
+
+## 関連チュートリアル
+
+* [あなたの声とウィジェットを形成](voice-and-visuals.md)
+* [コンテンツと訪問者のジャーニーの準備](content-and-journey.md)
+* [品質の測定とガードレールの設定](measuring-quality-and-setting-guardrails.md)
+* [技術的な設定とオプション機能](technical-setup-and-optional-features.md)
+* [公開前のチェックリストとロールアウトプラン](your-pre-go-live-checklist-and-rollout-plan.md)
+* [Brand Concierge go-live checklist playlist](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
