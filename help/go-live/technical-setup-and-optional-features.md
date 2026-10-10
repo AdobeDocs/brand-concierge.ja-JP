@@ -50,6 +50,6 @@ Adobe Adobe Brand Conciergeに対応したweb サイトを構築し、訪問者�
 * [コンテンツと訪問者のジャーニーの準備](content-and-journey.md)
 * [品質の測定とガードレールの設定](measuring-quality-and-setting-guardrails.md)
 * [公開前のチェックリストとロールアウトプラン](your-pre-go-live-checklist-and-rollout-plan.md)
-* [Brand Concierge go-live checklist playlist](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [Brand Concierge go-live checklist playlist](https://experienceleague.adobe.com/ja/playlists/brand-concierge-go-live-checklist)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
