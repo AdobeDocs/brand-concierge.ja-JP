@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge について
-source-git-commit: 024fc10eacb22a8292e51891458fc57253455afc
+source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 15%
+source-wordcount: '183'
+ht-degree: 14%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -21,6 +21,7 @@ ht-degree: 15%
   + [コンシェルジュのビジュアルスタイルをカスタマイズ](../getting-started/customize-visual-style.md)
   + [評価セットについて詳しく見る](../getting-started/learn-about-evaluation-sets.md)
   + [コンシェルジュを展開する](../getting-started/deploy-the-concierge.md)
+  + [Adobe CX Enterprise Coworkerを使用した会話の書き出し](../getting-started/exporting-conversations-using-adobe-cx-enterprise-coworker.md)
 + 運用開始ガイド {#go-live-guide}
   + [Adobe Commerceの本番稼動ジャーニーへの](../go-live/welcome.md)
   + [コンテンツと訪問者のエクスペリエンスの準備](../go-live/content-and-journey.md)
