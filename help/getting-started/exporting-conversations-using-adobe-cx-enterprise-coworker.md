@@ -34,4 +34,4 @@ Adobe Experience Platform クエリサービスとAdobe CX Enterprise Coworker�
 >
 > お客様の組織でData Distillerが使用できない場合、Coworkerはこのビデオに示すCSV ダウンロードを作成できません。
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
