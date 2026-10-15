@@ -28,7 +28,7 @@ Adobe Experience Platform クエリサービスとAdobe CX Enterprise Coworker�
 * ビデオに示すCSV ダウンロードにData Distillerが必要な理由を理解する
 * 個人情報（PII）を含む可能性のある書き出しを保存する場合は、組織のデータ処理ポリシーに従ってください
 
->[!VIDEO](https://video.tv.adobe.com/v/3504546)
+>[!VIDEO](https://video.tv.adobe.com/v/3504547?captions=jpn)
 
 >[!NOTE]
 >
