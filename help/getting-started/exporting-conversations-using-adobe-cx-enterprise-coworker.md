@@ -32,9 +32,9 @@ Adobe Experience Platform クエリサービスとAdobe CX Enterprise Coworker�
 
 >[!NOTE]
 >
-> お客様の組織でData Distillerが使用できない場合、Coworkerはこのビデオに示すCSV ダウンロードを作成できません。 代わりにターミナルを使用して会話データをCSV ファイルに書き出す方法については、[ クエリサービスとターミナルのビデオ ](exporting-conversations-using-query-service-and-terminal.md)を参照してください。
+> お客様の組織でData Distillerが使用できない場合、Coworkerはこのビデオに示すCSV ダウンロードを作成できません。 代わりにターミナルを使用して会話データをCSV ファイルに書き出す方法については、[&#x200B; クエリサービスとターミナルのビデオ &#x200B;](exporting-conversations-using-query-service-and-terminal.md)を参照してください。
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
 
 ## 関連チュートリアル
 
