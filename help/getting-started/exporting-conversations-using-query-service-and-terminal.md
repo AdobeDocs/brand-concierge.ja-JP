@@ -43,7 +43,7 @@ psql "sslmode=require host=... password=..." --csv -o ~/brand-concierge-conversa
 >
 > 書き出された会話には、個人を特定できる情報（PII）が含まれる場合があります。 CSV ファイルを保存する場合は、組織のデータ処理ポリシーに従ってください。
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
 
 ## 関連チュートリアル
 
