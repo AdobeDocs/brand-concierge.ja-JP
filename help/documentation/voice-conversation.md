@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
+source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 ---
 # 音声会話を有効にする
@@ -25,13 +25,13 @@ Adobe Brand Conciergeの音声認識を利用すれば、訪問者は入力せ�
 
 ## 音声の有効化
 
-1. **ホーム**&#x200B;画面の&#x200B;**コンシェルジュ**&#x200B;で、編集するコンシェルジュを選択します。
+1. **ホーム**&#x200B;画面の&#x200B;**コンシェルジュ**&#x200B;で、音声を有効にするコンシェルジュを選択します。
 
-   ![Brand Conciergeのホーム画面で、「コンシェルジュ」の下にAdobe コンシェルジュカードが強調表示されている](assets/voice-conversations-1.png){width="800" zoomable="yes"}
+   ![Brand Conciergeのホーム画面で、「コンシェルジュ」の下にAdobe コンシェルジュカードが強調表示されている](assets/voice-conversations-1.png){width="600" zoomable="yes"}
 
 1. 「**デザイン**」タブで、「**音声**」を選択します。
 
-   ![&#x200B; ブランドエクスプレッションの下の左側のパネルで「音声」オプションがハイライト表示されたコンシェルジュのデザインタブ &#x200B;](assets/voice-conversations-2.png){width="800" zoomable="yes"}
+   ![ ブランドエクスプレッションの下の左側のパネルで「音声」オプションがハイライト表示されたコンシェルジュのデザインタブ ](assets/voice-conversations-2.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Adobe Brand Conciergeの音声認識を利用すれば、訪問者は入力せ�
 
 ## 音声を無効にする方法
 
-1. **ホーム**&#x200B;画面の&#x200B;**コンシェルジュ**&#x200B;で、編集するコンシェルジュを選択します。
+1. **ホーム**&#x200B;画面の&#x200B;**担当コンシェルジュ**&#x200B;で、音声を無効にするコンシェルジュを選択します。
 
 1. 「**デザイン**」タブで、「**音声**」を選択します。
 
