@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge について
-source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
+source-git-commit: 4120fe43e9144b63b2f26eed8798a82a46a2dd77
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '192'
 ht-degree: 14%
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 14%
   + [評価セットについて詳しく見る](../getting-started/learn-about-evaluation-sets.md)
   + [コンシェルジュを展開する](../getting-started/deploy-the-concierge.md)
   + [Adobe CX Enterprise Coworkerを使用した会話の書き出し](../getting-started/exporting-conversations-using-adobe-cx-enterprise-coworker.md)
+  + [クエリサービスとターミナルを使用した会話のエクスポート](../getting-started/exporting-conversations-using-query-service-and-terminal.md)
 + 運用開始ガイド {#go-live-guide}
   + [Adobe Commerceの本番稼動ジャーニーへの](../go-live/welcome.md)
   + [コンテンツと訪問者のエクスペリエンスの準備](../go-live/content-and-journey.md)
@@ -34,6 +35,7 @@ ht-degree: 14%
   + [Meetings](../documentation/meetings.md)
   + [スキルと統合のフレームワーク](../documentation/skills-and-integrations.md)
   + [開発者向けガイド](../documentation/developer-customization-guide.md)
+  + {hide-from-toc}[音声会話](../documentation/voice-conversation.md)
   + [よくある質問](../documentation/brand-concierge-faq.md)
   + 概要 {#overview}
     + [Brand Conciergeの概要](../documentation/overview/overview.md)
