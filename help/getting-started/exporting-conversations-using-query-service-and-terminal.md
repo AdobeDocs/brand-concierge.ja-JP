@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 260
 last-substantial-update: 2026-10-15
 jira: KT-22874
-source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
+source-git-commit: 04c844e16a8fb13e54dfcbb29c776896674532b9
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -31,6 +31,10 @@ Adobe Experience Platform クエリサービスとターミナルを使用して
 
 >[!VIDEO](https://video.tv.adobe.com/v/3504643)
 
+```bash
+psql "sslmode=require host=... password=..." --csv -o ~/brand-concierge-conversation-export/oct-1-2026-till-today-responses.csv -c "SELECT * FROM cja_brand_concierge_responses_dataset_b4c15126_bd9b_4d52_8151_26 WHERE timestamp >= TIMESTAMP '2026-10-01 00:00:00' AND timestamp <= NOW() ORDER BY timestamp ASC LIMIT 1000"
+```
+
 >[!IMPORTANT]
 >
 > PSQL接続コマンドには、ライブパスワードが含まれています。 共有したり、チャット、AI エージェント、メールにペーストしたりしないでください。 パスワードの有効期限が切れた後に認証が失敗した場合は、「クエリサービス資格情報」タブから新しいコマンドをコピーします。
@@ -39,7 +43,7 @@ Adobe Experience Platform クエリサービスとターミナルを使用して
 >
 > 書き出された会話には、個人を特定できる情報（PII）が含まれる場合があります。 CSV ファイルを保存する場合は、組織のデータ処理ポリシーに従ってください。
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
 
 ## 関連チュートリアル
 
