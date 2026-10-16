@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 175
 last-substantial-update: 2026-10-14
 jira: KT-22743
-source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
+source-git-commit: de739f5ff45550a953e88a62c42c6beade126a96
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '211'
 ht-degree: 0%
 ---
 # Adobe CX Enterprise Coworkerを使用した会話の書き出し
@@ -28,13 +28,13 @@ Adobe Experience Platform クエリサービスとAdobe CX Enterprise Coworker�
 * ビデオに示すCSV ダウンロードにData Distillerが必要な理由を理解する
 * 個人情報（PII）を含む可能性のある書き出しを保存する場合は、組織のデータ処理ポリシーに従ってください
 
->[!VIDEO](https://video.tv.adobe.com/v/3504547?captions=jpn)
+>[!VIDEO](https://video.tv.adobe.com/v/3504546)
 
 >[!NOTE]
 >
-> お客様の組織でData Distillerが使用できない場合、Coworkerはこのビデオに示すCSV ダウンロードを作成できません。
+> お客様の組織でData Distillerが使用できない場合、Coworkerはこのビデオに示すCSV ダウンロードを作成できません。 代わりにターミナルを使用して会話データをCSV ファイルに書き出す方法については、[ クエリサービスとターミナルのビデオ ](exporting-conversations-using-query-service-and-terminal.md)を参照してください。
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
 
 ## 関連チュートリアル
 
