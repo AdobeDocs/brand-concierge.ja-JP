@@ -8,7 +8,7 @@ doc-type: Tutorial
 duration: 260
 last-substantial-update: 2026-10-15
 jira: KT-22874
-source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
+source-git-commit: 04c844e16a8fb13e54dfcbb29c776896674532b9
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -29,7 +29,11 @@ Adobe Experience Platform クエリサービスとターミナルを使用して
 * データセットと日付範囲を選択し、クエリ結果をローカルのCSV ファイルに書き出します
 * 書き出された結果を確認し、必要に応じて期限切れの資格情報を更新します
 
->[!VIDEO](https://video.tv.adobe.com/v/3504643)
+>[!VIDEO](https://video.tv.adobe.com/v/3504644?captions=jpn)
+
+```bash
+psql "sslmode=require host=... password=..." --csv -o ~/brand-concierge-conversation-export/oct-1-2026-till-today-responses.csv -c "SELECT * FROM cja_brand_concierge_responses_dataset_b4c15126_bd9b_4d52_8151_26 WHERE timestamp >= TIMESTAMP '2026-10-01 00:00:00' AND timestamp <= NOW() ORDER BY timestamp ASC LIMIT 1000"
+```
 
 >[!IMPORTANT]
 >
