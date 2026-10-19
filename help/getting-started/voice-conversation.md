@@ -42,5 +42,5 @@ Adobe Brand Conciergeでは、顧客が入力しなくてもコンシェルジ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ ](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
 この機能を有効にする方法については、[音声を有効にする](../documentation/voice-conversation.md)を参照してください
