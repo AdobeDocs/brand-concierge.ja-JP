@@ -40,7 +40,7 @@ Adobe Brand Conciergeでは、顧客が入力しなくてもコンシェルジ�
 * コンシェルジュサービスが完全なマルチモーダル体験を維持しながら、音声会話中に画像、テキスト、リンクを返す方法
 * 不要になった場合に音声をオフにする方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503487?captions=jpn&learn=on)
 
 ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
 この機能を有効にする方法については、[音声を有効にする](../documentation/voice-conversation.md)を参照してください
