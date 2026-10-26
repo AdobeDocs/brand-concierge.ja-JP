@@ -6,24 +6,31 @@ level: Beginner
 TQID: https://experienceleague.adobe.com/R-s7wgJ5jtCXnBiLMVdW-6db7cTgSgaJwq4x6IlEJqY
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: d23569d059a42297a92b339ecf92852fb3234033
+    internal-label: Customer profiles
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 1958
+source-wordcount: '1980'
 ht-degree: 1%
-
 ---
-
 # よくある質問
 
 Brand Conciergeに関するよくある質問への回答については、この節を参照してください。
@@ -141,7 +148,7 @@ Brand Conciergeには、次のテストツールが組み込まれています�
 
 ### 顧客はアドビのチームとのミーティングを予約できますか？
 
-はい、顧客はミーティング予約スキルを使用して、チームとのミーティングをスケジュールできます。 この機能を有効にするには、スキル設定でスキルをアクティブ化し、アクティブ化インテント（「営業担当者と話す」など）を定義し、カレンダーまたはスケジューリングシステムを接続し、可用性とミーティングの種類を設定します。 一度設定すれば、顧客は会話中にミーティングをリクエストすることができ、Adobe Brand Conciergeならチャットを離れることなくスケジューリングプロセスを円滑に進めることができます。
+はい。 顧客は、**ミーティング予約**&#x200B;および&#x200B;**ライブチャット**&#x200B;の統合で&#x200B;**営業担当者への引き継ぎ** スキルを使用して、チームとのミーティングをスケジュールしたり、担当者とのライブチャットを開始したりできます。 担当者は自分のカレンダーを接続してAdobe Marketo Qualifierで空き状況を設定し、訪問者のルーティング方法を選択して、Composerでスキルをアクティブ化し、そのスキルをトリガーするインテントを定義します。 一度設定すれば、顧客はチャットから離れることなく、会話中にミーティングやライブチャットをリクエストできます。 [ ライブチャットとミーティング予約](sales-handoff/overview.md)を参照してください。
 
 ### ナレッジベースの最初のQ&amp;A ペアはどのように生成されますか？
 

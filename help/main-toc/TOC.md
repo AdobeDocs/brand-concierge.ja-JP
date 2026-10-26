@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge について
-source-git-commit: c80a55306cf078d21071332532717760960dbc47
+source-git-commit: bc1ad01947d4c756c13392c1db85ced46e9cca82
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 14%
+source-wordcount: '223'
+ht-degree: 13%
 ---
 
 # Adobe Brand Concierge {#content}
@@ -32,7 +32,6 @@ ht-degree: 14%
   + [運用前のチェックリストとロールアウトプラン](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + ドキュメント {#documentation}
   + [Brand Concierge ヘルプ](../documentation/overview.md)
-  + [Meetings](../documentation/meetings.md)
   + [スキルと統合のフレームワーク](../documentation/skills-and-integrations.md)
   + [開発者向けガイド](../documentation/developer-customization-guide.md)
   + [音声会話](../documentation/voice-conversation.md)
@@ -48,6 +47,14 @@ ht-degree: 14%
     + [Brand Conciergeのナレッジソースの作成と管理](../documentation/knowledge-sources/knowledge-sources.md)
   + Concierge management {#concierge-management}
     + [コンシェルジュの管理](../documentation/concierge-management/concierge-management.md)
+  + ライブチャットとミーティング予約 {#sales-handoff}
+    + [概要](../documentation/sales-handoff/overview.md)
+    + [担当者の設定](../documentation/sales-handoff/representative-setup.md)
+    + [代表者への会話のルーティング](../documentation/sales-handoff/routing-rules.md)
+    + [ライブチャットとミーティング予約を有効にする](../documentation/sales-handoff/configure-in-composer.md)
+    + [チャットインボックス](../documentation/sales-handoff/chat-inbox.md)
+    + [Marketo EngageのBrand Conciergeデータ](../documentation/sales-handoff/marketo-activities.md)
+    + [ミーティングとライブチャットの監視](../documentation/sales-handoff/monitor.md)
   + 評価結果 {#evaluation}
     + [コンシェルジュの評価](../documentation/evaluation/evaluation.md)
   + デプロイメント {#deployment}

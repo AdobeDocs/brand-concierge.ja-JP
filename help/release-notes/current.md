@@ -5,9 +5,9 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1327'
 ht-degree: 0%
 ---
 # 現在のリリース情報 {#current-release-notes}
@@ -15,6 +15,22 @@ ht-degree: 0%
 Adobe Brand Conciergeは、継続的な配信モデルに従っており、Adobeによって継続的に新しい機能、拡張機能、修正を提供できます。
 
 特に明記されていない限り、すべての機能は一般に利用可能です。
+
+## 2026年10月 {#october-2026}
+
+* **ライブチャットの会話スコアリング**：営業担当者は、ライブチャットを終了する前にすべてのライブチャットを、最小から最も適格まで、0～3のスケールで評価します。 スコアはリードレコードに保存され、Marketo Engageのフィルターとトリガーの制約として利用できるため、リードスコアリング、リターゲティング、パーソナライゼーション、CRMの引き継ぎを促進できます。 [会話をスコアリング ](../documentation/sales-handoff/chat-inbox.md#conversation-score)を参照してください。
+
+* **Marketo Engage プロファイルのBrand Concierge アクティビティ**: コンシェルジュのエンゲージメントは、コンシェルジュとのエンゲージメント、コンシェルジュでのミーティングのスケジュール、コンシェルジュでのライブチャットの3つのネイティブアクティビティタイプとして、Marketoの個人レコードに書き込まれます。 3つの機能はすべて、会話スコア、ミーティングのステータス、ルーティングタイプ、営業担当者などの制約事項を含む、スマートリストのトリガーとフィルターとして利用できます。 Marketo Engage](../documentation/sales-handoff/marketo-activities.md)の[Brand Concierge データを参照してください。
+
+* **訪問者パネルの完全なMarketo プロファイル**: チャットの受信トレイには、会話と共に訪問者のプロファイルが表示されます。これには、事前チャットフォームで共有された詳細が含まれます。担当者は、返信する前に完全なコンテキストを把握できます。
+
+* **マルチチャネルルーティング通知**：担当者には、チャネルをまたいでライブチャットが着信したことを通知するため、チャットをより迅速に受け取ることができます。
+
+## 2026年9月 {#september-2026}
+
+* **Composer 2.0**&#x200B;でのライブチャットとミーティング予約：ライブチャットとミーティング予約は、Composerのブラウズ統合パネルの組み込み統合機能として利用でき、新しいセールススキルへの引き継ぎでは、訪問者の意図に基づいて提供するタイミングを決定します。 [ ライブチャットとミーティング予約の有効化](../documentation/sales-handoff/configure-in-composer.md)を参照してください。
+
+* **カスタムルーティングルール**: Marketoのリードおよび企業属性に対してルーティングルールを作成し、複数の条件グループとANDおよびOR、優先順位付けルール、複数の割り当て担当者を組み合わせて、適切な担当者に訪問者を送ります。 カスタムルーティングは、ミーティング予約とライブチャットの両方に適用されます。 [担当者への会話のルーティング ](../documentation/sales-handoff/routing-rules.md)を参照してください。
 
 ## 2026年8月 {#august-2026}
 
