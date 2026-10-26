@@ -27,11 +27,11 @@ ht-degree: 0%
 
 **[!UICONTROL アクティビティ]**&#x200B;で、**[!UICONTROL ミーティング予約]**&#x200B;を選択して、予約されたミーティングを確認し、各ミーティングについて取得された情報を確認し、各ミーティングがいつスケジュールされたかを確認します。
 
-![Brand Conciergeを通じて予約されたミーティングの予約ページ ](../assets/meetings-bookings-1.png){width="800" zoomable="yes"}
+![Brand Conciergeを通じて予約されたミーティングの予約ページ &#x200B;](../assets/meetings-bookings-1.png){width="800" zoomable="yes"}
 
 ## ライブチャットのレビュー {#chats}
 
-**[!UICONTROL アクティビティ]**&#x200B;で、**[!UICONTROL チャット受信トレイ]**&#x200B;を選択し、**[!UICONTROL すべて]** タブを開いて、終了した会話を含むすべての会話を表示します。 [ チャット受信箱](chat-inbox.md)を参照してください。
+**[!UICONTROL アクティビティ]**&#x200B;で、**[!UICONTROL チャット受信トレイ]**&#x200B;を選択し、**[!UICONTROL すべて]** タブを開いて、終了した会話を含むすべての会話を表示します。 [&#x200B; チャット受信箱](chat-inbox.md)を参照してください。
 
 >[!NOTE]
 >
@@ -41,8 +41,8 @@ ht-degree: 0%
 
 「**[!UICONTROL Analytics]**」で、「**[!UICONTROL 会議のパフォーマンス]**」を選択して、会議をリクエストした訪問者の数や欠落した訪問者の数など、複数の分析カテゴリを確認します。 また、時間の経過に伴うミーティングの傾向と、どの代表者がミーティングに参加したかもわかります。
 
-![会議パフォーマンスダッシュボード ](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![会議パフォーマンスダッシュボード &#x200B;](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
 
 ## Adobe Marketo Engageでコンシェルジュサービスの利用状況を分析する {#marketo}
 
-会話スコア、ルーティングタイプ、放棄されたミーティングの予約など、より詳細なセグメンテーションを行うには、[!DNL Marketo Engage]のコンシェルジュアクティビティタイプを使用します。 Marketo Engage](marketo-activities.md)の[Brand Concierge データを参照してください。
+会話スコア、ルーティングタイプ、放棄されたミーティングの予約など、より詳細なセグメンテーションを行うには、[!DNL Marketo Engage]のコンシェルジュアクティビティタイプを使用します。 Marketo Engage[&#128279;](marketo-activities.md)のBrand Concierge データを参照してください。

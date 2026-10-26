@@ -25,7 +25,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->ライブチャットとミーティングの予約には[!DNL Marketo Engage]は必要ありません。 このページに記載されているデータは、この情報がなければ[!DNL Adobe Marketo Qualifier]に残ります。 [ ライブチャットとミーティング予約の概要](overview.md#prerequisites)を参照してください。
+>ライブチャットとミーティングの予約には[!DNL Marketo Engage]は必要ありません。 このページに記載されているデータは、この情報がなければ[!DNL Adobe Marketo Qualifier]に残ります。 [&#x200B; ライブチャットとミーティング予約の概要](overview.md#prerequisites)を参照してください。
 
 ## リードジェネレーションとソースアトリビューション {#lead-creation}
 
@@ -45,7 +45,7 @@ ht-degree: 4%
 
 3つのネイティブアクティビティタイプが個人レコードにプッシュされます。 3つはすべてトリガーとフィルターとして利用できます。
 
-![ コンシェルジュとのエンゲージメント、コンシェルジュでのミーティングのスケジュール、コンシェルジュエントリでのライブチャットのエンゲージメントを示す人物のMarketo アクティビティログ ](../assets/sales-handoff-marketo-2.png){width="800" zoomable="yes"}
+![&#x200B; コンシェルジュとのエンゲージメント、コンシェルジュでのミーティングのスケジュール、コンシェルジュエントリでのライブチャットのエンゲージメントを示す人物のMarketo アクティビティログ &#x200B;](../assets/sales-handoff-marketo-2.png){width="800" zoomable="yes"}
 
 ### Conciergeとの連携 {#engage-with-concierge}
 
@@ -116,7 +116,7 @@ ht-degree: 4%
 
 スマートキャンペーンの&#x200B;**[!UICONTROL スマートリスト]**&#x200B;で、`concierge`を検索して、使用可能なすべての項目を確認します。
 
-![Marketo アクティビティで利用可能なコンシェルジュのトリガーとフィルターを表示するBrand Concierge スマート リスト ](../assets/sales-handoff-marketo-3.png){width="800" zoomable="yes"}
+![Marketo アクティビティで利用可能なコンシェルジュのトリガーとフィルターを表示するBrand Concierge スマート リスト &#x200B;](../assets/sales-handoff-marketo-3.png){width="800" zoomable="yes"}
 
 | カテゴリ | 利用可能なアイテム |
 | --- | --- |
