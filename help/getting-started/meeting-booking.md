@@ -27,14 +27,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 49%
+source-wordcount: '124'
+ht-degree: 16%
 ---
 # ミーティングの予約
 
-Adobe Brand Concierge の会議の予約機能について説明します。 このビデオチュートリアルでは、顧客向けエクスペリエンスの外観、カレンダーを接続するための管理者設定、一部のダッシュボードとレポートについて説明します。
+Adobe Brand Conciergeのミーティング予約機能についてご確認ください。 このビデオチュートリアルでは、取り上げるトピックは、顧客向けエクスペリエンスの外観、カレンダー接続の管理者設定、ダッシュボードとレポートの一部の概要です。
 
 ## この動画は誰のためのものでしょうか？
 
@@ -48,6 +48,6 @@ Adobe Brand Concierge の会議の予約機能について説明します。 こ
 * ライブエージェントへの転送がどれだけ迅速かつ簡単に行われるかを確認します
 * ツールの管理と設定方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/3478535?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
-詳細については、[&#x200B; ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。
+詳細については、[ ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。

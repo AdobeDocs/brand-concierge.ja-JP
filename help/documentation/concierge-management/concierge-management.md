@@ -5,7 +5,7 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1702'
 ht-degree: 1%
@@ -77,8 +77,8 @@ ht-degree: 1%
 | コンテンツAI 検索 | AEM Sites コンテンツを検索 | AEM Sites as a Cloud Serviceのお客様向け |
 | エンティティリンク | 訪問者のメッセージ内の商品またはブランド言及を特定のカタログエンティティに解決する | 統合をサポート：通常、単独ではなく検索統合と並行して使用されます |
 | COMMERCE MCP | Adobe Commerceのライブカタログに接続して、商品検索、商品詳細、比較を行えます | デフォルトでは有効になっていません。コマースまたはIT チームのコードまたはキーが必要です |
-| ミーティング予約 | 訪問者が営業担当者との面談を予約できるようにし | 営業担当者のカレンダーで設定する必要があります。 [&#x200B; ライブチャットとミーティングの予約](../sales-handoff/overview.md)を参照 |
-| ライブチャット | 訪問者と営業担当者の連携 | 営業担当者の空き状況を設定する必要があります。 [&#x200B; ライブチャットとミーティングの予約](../sales-handoff/overview.md)を参照 |
+| ミーティング予約 | 訪問者が営業担当者との面談を予約できるようにし | 営業担当者のカレンダーで設定する必要があります。 [ ライブチャットとミーティング予約](../sales-handoff/overview.md)を参照してください。 |
+| ライブチャット | 訪問者と営業担当者の連携 | 営業担当者の空き状況を設定する必要があります。 [ ライブチャットとミーティング予約](../sales-handoff/overview.md)を参照してください。 |
 
 ### 統合を有効にして設定する
 
@@ -187,13 +187,13 @@ ht-degree: 1%
 
 ### ミーティング予約またはライブチャットの設定
 
-完全な手順については、[&#x200B; ライブチャットとミーティング予約](../sales-handoff/overview.md)を参照してください。 設定は4つの部分で構成されています。
+完全な手順については、[ ライブチャットとミーティング予約](../sales-handoff/overview.md)を参照してください。 設定は4つの部分で構成されています。
 
 1. [Adobe Marketo Qualifierで担当者を設定](../sales-handoff/representative-setup.md) — カレンダーを接続し、確認メールを定義し、カレンダーとライブチャットの空き状況を設定します。
 
-1. [会話を担当者にルーティング &#x200B;](../sales-handoff/routing-rules.md) — ラウンドロビン、ダイレクトエージェント、またはカスタムルーティングルールを選択します。
+1. [会話を担当者にルーティング ](../sales-handoff/routing-rules.md) — ラウンドロビン、ダイレクトエージェント、またはカスタムルーティングルールを選択します。
 
-1. [&#x200B; ライブチャットとミーティング予約を有効にする](../sales-handoff/configure-in-composer.md) — **[!UICONTROL ミーティング予約]**&#x200B;と&#x200B;**[!UICONTROL ライブチャット]**&#x200B;の統合を接続してから、**[!UICONTROL セールスへの引き継ぎ]** スキルを有効にします。
+1. [ ライブチャットとミーティング予約を有効にする](../sales-handoff/configure-in-composer.md) — **[!UICONTROL ミーティング予約]**&#x200B;と&#x200B;**[!UICONTROL ライブチャット]**&#x200B;の統合を接続してから、**[!UICONTROL セールスへの引き継ぎ]** スキルを有効にします。
 
 1. 「**シミュレート**」を選択して、エンドツーエンドのエクスペリエンスをテストします。 サンプル質問を入力し、適切なスキルとエンゲージメントフローにルーティングされていることを確認します。
 
@@ -201,9 +201,9 @@ ht-degree: 1%
 
 機能が有効な場合：
 
-- 受信ライブチャットは、[&#x200B; チャット受信箱](../sales-handoff/chat-inbox.md)でリアルタイムに利用可能な担当者に表示されます。
+- 受信ライブチャットは、[ チャット受信箱](../sales-handoff/chat-inbox.md)でリアルタイムに利用可能な担当者に表示されます。
 - 予約されたミーティングはミーティングビューに表示され、ミーティングパフォーマンスレポートは分析で利用できます。 [会議とライブチャットの監視](../sales-handoff/monitor.md)を参照してください。
-- ミーティングとチャットのエンゲージメントは、既存のアクティビティデータと共にアクティビティとしてMarketoに送信されます。 Marketo Engage[&#128279;](../sales-handoff/marketo-activities.md)のBrand Concierge データを参照してください。
+- ミーティングとチャットのエンゲージメントは、既存のアクティビティデータと共にアクティビティとしてMarketoに送信されます。 Marketo Engage](../sales-handoff/marketo-activities.md)の[Brand Concierge データを参照してください。
 
 ## プレビューリンクを共有
 

@@ -12,20 +12,20 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '638'
 ht-degree: 1%
 ---
 # チャットインボックス {#chat-inbox}
 
 訪問者が誰かに話しかけるよう求めると、チャットが[!DNL Adobe Marketo Qualifier]の&#x200B;**[!UICONTROL チャット受信箱]**&#x200B;に届きます。 このページは、ライブチャットの担当者のビューです。ライブチャットが到着したときに表示される内容、取得するコンテキスト、終了する前に実行する必要がある処理です。
 
-これを開くには、**[!UICONTROL アクティビティ]**&#x200B;の下の左側のパネルで、**[!UICONTROL 受信トレイ]**&#x200B;を選択します。
+チャットの受信トレイを開くには、**[!UICONTROL アクティビティ]**&#x200B;の下の左側のパネルで、**[!UICONTROL チャットの受信トレイ]**&#x200B;を選択します。
 
 ## チャットを受信 {#receive}
 
-ステータスは、受信トレイの右上隅に表示されます。 **[!UICONTROL 利用可能]**&#x200B;とは、今すぐチャットを受け取れることを意味します。 ライブチャットの利用可能時間は、利用条件を満たすかどうかを決定します。[&#x200B; ライブチャットの利用可能時間の設定](representative-setup.md#chat-availability)を参照してください。
+ステータスは、受信トレイの右上隅に表示されます。 **[!UICONTROL 利用可能]**&#x200B;とは、今すぐチャットを受け取れることを意味します。 ライブチャットの利用可能時間は、利用条件を満たすかどうかを決定します。[ ライブチャットの利用可能時間の設定](representative-setup.md#chat-availability)を参照してください。
 
 チャットへのアクセス方法は、**[!UICONTROL Live Chat]**&#x200B;統合で設定されたルーティングの種類によって異なります。
 
@@ -54,7 +54,7 @@ ht-degree: 1%
 
 メッセージボックスに入力し、**[!UICONTROL 送信]**&#x200B;を選択して返信します。
 
-![担当者と訪問者の間で進行中のライブチャット &#x200B;](../assets/sales-handoff-inbox-2.png){width="800" zoomable="yes"}
+![担当者と訪問者の間で進行中のライブチャット ](../assets/sales-handoff-inbox-2.png){width="800" zoomable="yes"}
 
 ## 会話のスコアリング {#conversation-score}
 
@@ -62,7 +62,7 @@ ht-degree: 1%
 
 **[!UICONTROL プロファイルの詳細]** パネルの&#x200B;**[!UICONTROL 会話スコア]**&#x200B;の下で、評価を選択します。 ダッシュはスコアがないことを意味し、炎のアイコンは会話を最小値から最も適格に評価します。
 
-スコアが0、1、2、および3![&#128279;](../assets/sales-handoff-inbox-4.png){width="600" zoomable="yes"}としてリードレコードに保存されていることを説明する会話スコアツールヒント
+スコアが0、1、2、および3](../assets/sales-handoff-inbox-4.png){width="600" zoomable="yes"}としてリードレコードに保存されていることを説明する![会話スコアツールヒント
 
 | 選択 | 格納された値 | 意味 |
 | --- | --- | --- |
@@ -77,7 +77,7 @@ ht-degree: 1%
 
 ![会話スコアが保存されたことが確認されました](../assets/sales-handoff-inbox-3.png){width="800" zoomable="yes"}
 
-スコアは[!DNL Marketo Engage]の&#x200B;**[!UICONTROL Engage with Live Chat in Concierge]** アクティビティに書き込まれ、フィルターとトリガーの制約として利用できます。 リターゲティング、リードスコアリング、パーソナライゼーション、CRMの引き継ぎを促進できます。 Marketo Engage[&#128279;](marketo-activities.md)のBrand Concierge データを参照してください。
+スコアは[!DNL Marketo Engage]の&#x200B;**[!UICONTROL Engage with Live Chat in Concierge]** アクティビティに書き込まれ、フィルターとトリガーの制約として利用できます。 リターゲティング、リードスコアリング、パーソナライゼーション、CRMの引き継ぎを促進できます。 Marketo Engage](marketo-activities.md)の[Brand Concierge データを参照してください。
 
 ## チャットを終了 {#end-chat}
 
@@ -94,4 +94,4 @@ ht-degree: 1%
 
 ## 次の手順 {#next}
 
-Marketo Engage[&#128279;](marketo-activities.md)のBrand Concierge データで、マーケティングデータベースに書き戻される内容を確認します。
+Marketo Engage](marketo-activities.md)の[Brand Concierge データで、マーケティングデータベースに書き戻される内容を確認します。

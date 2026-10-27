@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '1705'
+source-wordcount: '1703'
 ht-degree: 1%
 ---
 # スキルと統合のフレームワーク {#skills-and-integrations}
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 _サイト アドバイザリースキルの例_
 
-![&#x200B; サイト アドバイザリースキルの詳細パネルに、説明、トリガー、添付のナレッジベース検索の統合、スキル手順が表示されている](assets/skills-and-integrations-1.png){width="800" zoomable="yes"}
+![ サイト アドバイザリースキルの詳細パネルに、説明、トリガー、添付のナレッジベース検索の統合、スキル手順が表示されている](assets/skills-and-integrations-1.png){width="800" zoomable="yes"}
 
 ## 統合
 
@@ -81,10 +81,10 @@ _サイト アドバイザリースキルの例_
 | コンテンツAI 検索 | コンテンツ AIを利用して、ブランドのコンテンツを検索 | 別のコンテンツソース。通常、一度に必要なのは、ナレッジベース検索またはコンテンツAI 検索の1つのみです |
 | エンティティリンク | ユーザーのメッセージ内の商品またはブランド言及を特定のカタログエンティティに解決します | 統合をサポートし、単独ではなく検索統合と並行して使用 |
 | COMMERCE MCP | Adobeで管理されるCommerce MCP サーバー：Adobe Live検索に裏打ちされた、商品検索、詳細、バリエーション、ファセット/属性の検出 | ベースラインにありません。Commerceのユースケース用に手動で追加 |
-| ミーティング予約 | 訪問者は営業担当者との面談を予約できます | 営業担当者のカレンダーをコンパニオン [!DNL Adobe Marketo Qualifier]製品を通して設定する必要があります。 [&#x200B; ライブチャットとミーティングの予約](sales-handoff/overview.md)を参照 |
-| ライブチャット | 訪問者と営業担当者の連携 | コンパニオン [!DNL Adobe Marketo Qualifier]製品を使用して、営業担当者の空き状況を設定する必要があります。 [&#x200B; ライブチャットとミーティングの予約](sales-handoff/overview.md)を参照 |
+| ミーティング予約 | 訪問者は営業担当者との面談を予約できます | 営業担当者のカレンダーをコンパニオン [!DNL Adobe Marketo Qualifier]製品を通して設定する必要があります。 [ ライブチャットとミーティング予約](sales-handoff/overview.md)を参照してください。 |
+| ライブチャット | 訪問者と営業担当者の連携 | コンパニオン [!DNL Adobe Marketo Qualifier]製品を使用して、営業担当者の空き状況を設定する必要があります。 [ ライブチャットとミーティング予約](sales-handoff/overview.md)を参照してください。 |
 
-![&#x200B; コンテンツAI 検索、エンティティリンク、ナレッジベース検索、Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}の4つの統合カードが表示されている統合パネルを参照します
+![ コンテンツAI 検索、エンティティリンク、ナレッジベース検索、Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}の4つの統合カードが表示されている統合パネルを参照します
 
 ## すぐに利用できるスキル
 
@@ -96,7 +96,7 @@ _サイト アドバイザリースキルの例_
 | 製品アドバイザリー | 製品を見つけて調査する：名前ベースの製品カードと散文製品の質問 | ナレッジベース検索、エンティティリンク |
 | Adobe Commerce Catalog Discovery | ライブカタログに対して、商品の詳細を検索、参照、フィルタリング、取得できます | CommerceのMCP ツール：Commerceの商品、商品の詳細、商品バリエーション、商品ファセット、検索可能な属性を検索します |
 | Adobe Commerceと製品の比較 | Commerceのテーブル内の2つ以上の名前付き商品の並べて比較 | CommerceのMCP ツール：Commerce製品の検索、製品詳細 |
-| 営業部門への引き継ぎ | ライブチャットやミーティング予約の提案や促進など、利用可能なツールを使用して、訪問者と企業コンサルタントを結びつけることができます。 [&#x200B; ライブチャットとミーティング予約の有効化](sales-handoff/configure-in-composer.md)を参照してください | ライブチャット，ミーティング予約 |
+| 営業部門への引き継ぎ | 訪問者の意図に応じて、ライブチャットやミーティング予約を通じて、訪問者を営業担当者に結び付けることができます。 [ ライブチャットとミーティング予約の有効化](sales-handoff/configure-in-composer.md)を参照してください。 | ライブチャット，ミーティング予約 |
 
 この2つのコマーススキルはカタログのみの機能で、ベースラインの一部ではないCommerce MCP統合に依存します。 非コマースコンシェルジュでは、代わりに自動作成されたナレッジベース検索に対して、サイトアドバイザリーと製品アドバイザリーが実行されます。
 
