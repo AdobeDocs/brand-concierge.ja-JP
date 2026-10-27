@@ -48,6 +48,6 @@ Adobe Brand Conciergeのミーティング予約機能についてご確認く�
 * ライブエージェントへの転送がどれだけ迅速かつ簡単に行われるかを確認します
 * ツールの管理と設定方法を説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478535?captions=jpn&learn=on&enablevpops)
 
 詳細については、[&#x200B; ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。
