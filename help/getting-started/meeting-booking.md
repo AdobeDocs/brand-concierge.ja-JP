@@ -11,22 +11,27 @@ jira: KT-19622
 TQID: https://experienceleague.adobe.com/4wW6FTaGpq-BrAvZzMh0PATAT2WkCuB-YRBCnGyJEYs
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: c933b3d8a0a48791f31b1db851a9a4d3be5660e9
+    internal-label: Personalization
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 121
-ht-degree: 51%
-
+source-wordcount: '125'
+ht-degree: 49%
 ---
-
 # ミーティングの予約
 
 Adobe Brand Concierge の会議の予約機能について説明します。 このビデオチュートリアルでは、顧客向けエクスペリエンスの外観、カレンダーを接続するための管理者設定、一部のダッシュボードとレポートについて説明します。
@@ -45,4 +50,4 @@ Adobe Brand Concierge の会議の予約機能について説明します。 こ
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478535?captions=jpn&learn=on&enablevpops)
 
-詳細については、[Meetings](../documentation/meetings.md)を参照してください。
+詳細については、[&#x200B; ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。

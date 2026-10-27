@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # Marketoとの連携
@@ -38,4 +38,4 @@ Brand Conciergeを利用して、web サイトとMarketo Engageの連携を強�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492251?captions=jpn&learn=on)
 
-ドキュメントについては、[Brand Concierge ヘルプ &#x200B;](../documentation/overview.md)を参照してください。
+ドキュメントについては、[Marketo EngageのBrand Concierge データ &#x200B;](../documentation/sales-handoff/marketo-activities.md)を参照してください。

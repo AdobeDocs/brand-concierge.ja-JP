@@ -6,25 +6,33 @@ level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+    internal-label: Customer engagement
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+    internal-label: Privacy
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 2047
+source-wordcount: '2051'
 ht-degree: 1%
-
 ---
-
 # Brand Concierge ヘルプ
 
 Brand Conciergeの主な機能を設定して使用する方法について説明します。 設定、データ統合、プライバシー、カスタマイズ、パフォーマンス測定、技術要件に関するよくある質問への回答を示します。
@@ -116,7 +124,7 @@ Adobe Experience Cloud ダッシュボードからBrand Conciergeにアクセス
 
 商品レコメンデーションの&#x200B;**製品アドバイザリー**、一般的なブランドに関する質問の&#x200B;**サイトアドバイザリー**&#x200B;など、コンシェルジュが訪問者に対して何をできるかを決定するスキル。 「**[!UICONTROL スキルを参照]**」を選択して、利用可能なスキルカタログを表示し、コンシェルジュが必要とするスキルをオンにします。
 
-* **スキルカタログ：** サイトアドバイザリー、製品アドバイザリー、ミーティング予約や営業担当者とのライブチャットをサポートするスキルなど、利用可能なスキルから選択します。
+* **スキルカタログ：** サイトアドバイザリー、製品アドバイザリー、[営業担当者とのライブチャットや面談を提供する営業担当者への引き継ぎ](sales-handoff/overview.md)など、利用可能なスキルから選択します。
 * **設定：**&#x200B;各スキルに対して、そのスキルの名前、説明、およびスキルを呼び出すインテント（トリガーフレーズまたはトピック）を設定します。
 * **統合：** スキルが作業を行うために必要な統合を添付するか、**[!UICONTROL 推奨]**&#x200B;を使用して、Composerで自動的に選択します。
 * **プレビュー：** ライブプレビューですぐに変更をテストします。
@@ -237,7 +245,7 @@ Brand Conciergeは、複数の業界におけるB2CとB2Bの両方のユース�
 
 ## 会話型AIによる情報開示 {#disclosure}
 
-透明性と信頼性の高い体験を提供するために、Adobe Brand Conciergeをご利用のお客様は、会話体験に関する簡単な情報を提供する責任があります。 この情報開示は、エンドユーザーが会話がどのように機能し、情報がどのように使用されるかを理解するのに役立ちます。
+透明性と信頼性の高い体験を提供するために、Adobe Brand Conciergeの利用者は、会話体験に関する情報を短時間で公開する責任があります。 この情報開示は、エンドユーザーが会話がどのように機能し、情報がどのように使用されるかを理解するのに役立ちます。
 
 **情報開示の対象**
 
