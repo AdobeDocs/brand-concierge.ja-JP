@@ -37,13 +37,13 @@ ht-degree: 1%
 
 1. [Adobe Experience Cloud](https://experience.adobe.com/){target="_blank"}にログインし、**[!UICONTROL Adobe Marketo Qualifier]**&#x200B;を選択します。
 
-   ![Adobe Marketo Qualifier カードを使用したAdobe Experience Cloud ホームページ ](../assets/meetings-connect-1.png){width="800" zoomable="yes"}
+   ![Adobe Marketo Qualifier カードを使用したAdobe Experience Cloud ホームページ &#x200B;](../assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
 1. 左側のパネルの&#x200B;**[!UICONTROL 設定]**&#x200B;で、**[!UICONTROL プロファイル設定]**&#x200B;を選択し、**[!UICONTROL カレンダー設定]** タブを開きます。
 
 1. 接続するカレンダー（[!DNL Microsoft Outlook]または[!DNL Google Calendar]）を選択します。
 
-   OutlookとGoogleのカレンダー接続オプションを表示する![ カレンダー設定タブ ](../assets/meetings-connect-2.png){width="600" zoomable="yes"}
+   OutlookとGoogleのカレンダー接続オプションを表示する![&#x200B; カレンダー設定タブ &#x200B;](../assets/meetings-connect-2.png){width="600" zoomable="yes"}
 
 1. 既存のアカウントでログインするか、新しいアカウントを追加して、要求された権限を付与します。
 
@@ -63,7 +63,7 @@ ht-degree: 1%
 
 1. **[!UICONTROL プロファイル設定]**&#x200B;で、「**[!UICONTROL カレンダーの空き状況]**」タブを開きます。
 
-   ![空き時間が設定される前の「カレンダーの空き時間」タブ ](../assets/meetings-availability-1.png){width="600" zoomable="yes"}
+   ![空き時間が設定される前の「カレンダーの空き時間」タブ &#x200B;](../assets/meetings-availability-1.png){width="600" zoomable="yes"}
 
 1. ミーティングのルールを設定。
 
@@ -80,9 +80,9 @@ ht-degree: 1%
 
    >[!NOTE]
    >
-   >1日に別の時間ブロックを追加するには、プラス記号（![ プラス記号アイコン ](../assets/icon-plus-sign.png)）を選択します。
+   >1日に別の時間ブロックを追加するには、プラス記号（![&#x200B; プラス記号アイコン &#x200B;](../assets/icon-plus-sign.png)）を選択します。
 
-   ![平日の時間と分割された時間範囲が設定されたカレンダーの空き状況タブ ](../assets/meetings-availability-2.png){width="600" zoomable="yes"}
+   ![平日の時間と分割された時間範囲が設定されたカレンダーの空き状況タブ &#x200B;](../assets/meetings-availability-2.png){width="600" zoomable="yes"}
 
 1. 「**[!UICONTROL 保存]**」を選択します。
 
@@ -102,13 +102,13 @@ ht-degree: 1%
 
 1. タイムゾーンを設定し、ライブチャットを受け取る希望の日と時間を設定します。 週末は含めることができます。
 
-   ![ ライブチャットの空き状況タブ。日数と時間が設定されています](../assets/meetings-availability-3.png){width="600" zoomable="yes"}
+   ![&#x200B; ライブチャットの空き状況タブ。日数と時間が設定されています](../assets/meetings-availability-3.png){width="600" zoomable="yes"}
 
 1. 「**[!UICONTROL 保存]**」を選択します。
 
 >[!NOTE]
 >
->利用可能時間により、*チャットの対象*&#x200B;になります。 チャットの受信トレイにライブ ステータスが表示され、現在受信しているかどうかが決定されます。 [ チャット受信箱](chat-inbox.md)を参照してください。
+>利用可能時間により、*チャットの対象*&#x200B;になります。 チャットの受信トレイにライブ ステータスが表示され、現在受信しているかどうかが決定されます。 [&#x200B; チャット受信箱](chat-inbox.md)を参照してください。
 
 ## 設定したユーザーを確認する {#manage-members}
 
@@ -116,8 +116,8 @@ ht-degree: 1%
 
 Composerで統合をアクティブ化する前に、これを使用します。 接続されたカレンダーなしでここに表示される担当者は、ミーティング予約の対象にはなりません。また、ライブチャットの空き状況がない担当者は、ライブチャットの対象にはなりません。
 
-![ メンバーの管理ページに一覧表示されている代表者とそのカレンダーおよびライブチャットの設定状態](../assets/manage-members-1.png){width="800" zoomable="yes"}
+![&#x200B; メンバーの管理ページに一覧表示されている代表者とそのカレンダーおよびライブチャットの設定状態](../assets/manage-members-1.png){width="800" zoomable="yes"}
 
 ## 次の手順 {#next}
 
-少なくとも1人の代表者が設定されている場合は、訪問者と代表者のマッチング方法を決定します。 [担当者への会話のルーティング ](routing-rules.md)を参照してください。
+少なくとも1人の代表者が設定されている場合は、訪問者と代表者のマッチング方法を決定します。 [担当者への会話のルーティング &#x200B;](routing-rules.md)を参照してください。

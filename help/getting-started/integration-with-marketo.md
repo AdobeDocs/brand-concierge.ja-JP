@@ -38,4 +38,4 @@ Brand Conciergeを利用して、web サイトとMarketo Engageの連携を強�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
 
-ドキュメントについては、[Marketo EngageのBrand Concierge データ ](../documentation/sales-handoff/marketo-activities.md)を参照してください。
+ドキュメントについては、[Marketo EngageのBrand Concierge データ &#x200B;](../documentation/sales-handoff/marketo-activities.md)を参照してください。

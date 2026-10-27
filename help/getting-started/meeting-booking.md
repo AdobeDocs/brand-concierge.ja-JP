@@ -50,4 +50,4 @@ Adobe Brand Conciergeのミーティング予約機能についてご確認く�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
-詳細については、[ ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。
+詳細については、[&#x200B; ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。

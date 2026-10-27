@@ -31,7 +31,7 @@ Adobe Brand Conciergeの音声認識を利用すれば、訪問者は入力せ�
 
 1. 「**デザイン**」タブで、「**音声**」を選択します。
 
-   ![ ブランドエクスプレッションの下の左側のパネルで「音声」オプションがハイライト表示されたコンシェルジュのデザインタブ ](assets/voice-conversations-2.png){width="600" zoomable="yes"}
+   ![&#x200B; ブランドエクスプレッションの下の左側のパネルで「音声」オプションがハイライト表示されたコンシェルジュのデザインタブ &#x200B;](assets/voice-conversations-2.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -69,4 +69,4 @@ Adobe Brand Conciergeの音声認識を利用すれば、訪問者は入力せ�
 
 ## 動画デモ
 
-実際の音声会話を確認するには、[ ビデオ デモ ](/help/getting-started/voice-conversation.md)をご覧ください。
+実際の音声会話を確認するには、[&#x200B; ビデオ デモ &#x200B;](/help/getting-started/voice-conversation.md)をご覧ください。

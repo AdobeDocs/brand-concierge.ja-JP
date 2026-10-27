@@ -44,7 +44,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->スキルと統合は、コンシェルジュの一般的な構成要素です。 基になるモデルについては、[ スキルと統合フレームワーク ](../skills-and-integrations.md)を参照してください。
+>スキルと統合は、コンシェルジュの一般的な構成要素です。 基になるモデルについては、[&#x200B; スキルと統合フレームワーク &#x200B;](../skills-and-integrations.md)を参照してください。
 
 ## 訪問者の体験 {#visitor-experience}
 
@@ -62,7 +62,7 @@ ht-degree: 1%
 
 訪問者はいつでもチャットを終了でき、確認を求められます。
 
-![ チャットの終了ダイアログで、訪問者にスペシャリストとのチャットの終了を確認するように求めます](../assets/sales-handoff-visitor-4.png){width="800" zoomable="yes"}
+![&#x200B; チャットの終了ダイアログで、訪問者にスペシャリストとのチャットの終了を確認するように求めます](../assets/sales-handoff-visitor-4.png){width="800" zoomable="yes"}
 
 ### ミーティング予約 {#visitor-meeting-booking}
 
@@ -88,10 +88,10 @@ ht-degree: 1%
 順を追って進めていきます。
 
 1. [Adobe Marketo Qualifierで担当者を設定](representative-setup.md) — カレンダーを接続し、確認メールを定義し、カレンダーとライブチャットの空き状況を設定します。
-1. [会話を担当者にルーティング ](routing-rules.md) — [!DNL Marketo]属性に基づいて作成されたラウンドロビン、ダイレクトエージェント、またはカスタムルールを選択します。
-1. [ ライブチャットとミーティング予約を有効にする](configure-in-composer.md) — 2つの統合を接続し、**[!UICONTROL セールスへの引き継ぎ]** スキルを有効にします。
-1. [ チャット受信箱](chat-inbox.md) – 会話のスコアリングなど、担当者がチャットを受信したら実行すること。
-1. [Marketo EngageのBrand Concierge データ ](marketo-activities.md) — [!DNL Marketo]に書き戻されたリードフィールドとアクティビティタイプ、およびスマートキャンペーンでの使用方法。
+1. [会話を担当者にルーティング &#x200B;](routing-rules.md) — [!DNL Marketo]属性に基づいて作成されたラウンドロビン、ダイレクトエージェント、またはカスタムルールを選択します。
+1. [&#x200B; ライブチャットとミーティング予約を有効にする](configure-in-composer.md) — 2つの統合を接続し、**[!UICONTROL セールスへの引き継ぎ]** スキルを有効にします。
+1. [&#x200B; チャット受信箱](chat-inbox.md) – 会話のスコアリングなど、担当者がチャットを受信したら実行すること。
+1. [Marketo EngageのBrand Concierge データ &#x200B;](marketo-activities.md) — [!DNL Marketo]に書き戻されたリードフィールドとアクティビティタイプ、およびスマートキャンペーンでの使用方法。
 1. [会議とライブチャットを監視](monitor.md) – 予約リストとパフォーマンスダッシュボード。
 
 ## データ保持 {#retention}
