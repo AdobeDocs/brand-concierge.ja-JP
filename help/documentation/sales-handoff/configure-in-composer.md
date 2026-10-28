@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '828'
 ht-degree: 1%
 ---
 # ライブチャットとミーティング予約を有効にする {#configure-in-composer}
@@ -27,7 +27,7 @@ Composerには2つの要素が必要です。 **[!UICONTROL ミーティング�
 >
 >最初に[Adobe Marketo Qualifierで担当者を設定](representative-setup.md)します。 統合は、接続されたカレンダーとライブチャットの可用性をチェックし、それなしではアクティブ化されません。
 
-## 会議の予約の統合を接続 {#connect-meeting-booking}
+## ミーティング予約の統合を連携する {#connect-meeting-booking}
 
 1. Composerでコンシェルジュを開き、**[!UICONTROL 統合]**/**[!UICONTROL 統合を参照]**&#x200B;を選択します。
 
@@ -54,7 +54,7 @@ Composerには2つの要素が必要です。 **[!UICONTROL ミーティング�
 
 1. **[!UICONTROL Connect]**&#x200B;を選択します。
 
-## ライブチャット統合の接続 {#connect-live-chat}
+## ライブチャット統合の連携 {#connect-live-chat}
 
 1. **[!UICONTROL 統合を参照]**&#x200B;で、**[!UICONTROL ライブチャット]**&#x200B;を選択し、**[!UICONTROL 設定]**&#x200B;を選択します。
 
@@ -100,7 +100,7 @@ Composerには2つの要素が必要です。 **[!UICONTROL ミーティング�
    | 競合製品との比較 | 自社ソリューションと競合他社の選択肢との比較、差別化、競合他社プラットフォームからの移行 |
    | 体験版およびPOC アクセス | 体験版の設定、遊び場へのアクセス、概念実証、パイロット |
    | 契約とライセンスの変更 | 契約の更新、期間の延長、プランのアップグレード |
-   | 調達RFPまたはRFI | 提出、回答、ベンダーへの質問、調達フォーム、コンプライアンスに関する文書 |
+   | 調達RFPまたはRFI | RFPまたはRFIの提出と回答、ベンダーのアンケート、調達フォーム、またはコンプライアンス文書 |
    | デモ | 製品デモやウォークスルー |
 
    「**[!UICONTROL 条件を追加]**」を選択して、独自の意図を追加するか、ビジネスに適用されない条件を削除します。
@@ -123,6 +123,6 @@ Composerには2つの要素が必要です。 **[!UICONTROL ミーティング�
 
 行動が正しいときは、コンシェルジュを公開して、サイトで引き継ぎをライブにします。
 
-## 次の手順 {#next}
+## 次の手順 {#next-steps}
 
-担当者はチャットを受け取れるようになりました。 [&#x200B; チャット受信箱](chat-inbox.md)を参照してください。
+担当者は、チャットやミーティングの予約を受け取れるようになりました。 担当者によるチャットの処理方法については、[受信トレイ &#x200B;](chat-inbox.md)を参照してください。

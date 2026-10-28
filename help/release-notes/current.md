@@ -5,7 +5,7 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1327'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Adobe Brand Conciergeは、継続的な配信モデルに従っており、Adobe
 
 ## 2026年9月 {#september-2026}
 
-* **Composer 2.0**&#x200B;でのライブチャットとミーティング予約：ライブチャットとミーティング予約は、Composerのブラウズ統合パネルの組み込み統合機能として利用でき、新しいセールススキルへの引き継ぎでは、訪問者の意図に基づいて提供するタイミングを決定します。 [&#x200B; ライブチャットとミーティング予約の有効化](../documentation/sales-handoff/configure-in-composer.md)を参照してください。
+* **Composer 2.0**&#x200B;でのライブチャットとミーティング予約：ライブチャットとミーティング予約は、Composerのブラウズ統合パネルの組み込み統合機能として利用でき、新しいセールススキルへの引き継ぎによって、訪問者の意図に基づいて提供するタイミングが決定されます。 [&#x200B; ライブチャットとミーティング予約の有効化](../documentation/sales-handoff/configure-in-composer.md)を参照してください。
 
 * **カスタムルーティングルール**: Marketoのリードおよび企業属性に対してルーティングルールを作成し、複数の条件グループとANDおよびOR、優先順位付けルール、複数の割り当て担当者を組み合わせて、適切な担当者に訪問者を送ります。 カスタムルーティングは、ミーティング予約とライブチャットの両方に適用されます。 [担当者への会話のルーティング &#x200B;](../documentation/sales-handoff/routing-rules.md)を参照してください。
 

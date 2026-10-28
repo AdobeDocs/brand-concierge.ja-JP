@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '786'
 ht-degree: 1%
 ---
 # Adobe Marketo Qualifierでの代表者の設定 {#representative-setup}
@@ -49,7 +49,7 @@ ht-degree: 1%
 
    カレンダーの接続中に![Microsoft アカウント ピッカーが表示されます](../assets/meetings-connect-3.png){width="600" zoomable="yes"}
 
-1. 訪問者がミーティングを予約したときに送信される確認メールを確認します。
+1. 訪問者がミーティングを予約したときに受信した確認メールを確認します。
 
    デフォルトの件名と本文が設定されます。 どちらか一方を編集し、招待に[!DNL Microsoft Teams] ミーティングリンクを含めるかどうかを選択します。
 
@@ -112,7 +112,7 @@ ht-degree: 1%
 
 ## 設定したユーザーを確認する {#manage-members}
 
-**管理者のみ。** **[!UICONTROL 管理]**&#x200B;で「**[!UICONTROL メンバーを管理]**」を選択すると、カレンダーを接続した担当者、ライブチャットの空き状況を設定した担当者、カレンダーを切断した担当者など、すべての担当者の状態が1か所で表示されます。
+このセクションは管理者専用です。 **[!UICONTROL 管理]**&#x200B;で「**[!UICONTROL メンバーを管理]**」を選択すると、カレンダーを接続した担当者、ライブチャットの空き状況を設定した担当者、カレンダーを切断した担当者など、すべての担当者の状態が1か所で表示されます。
 
 Composerで統合をアクティブ化する前に、これを使用します。 接続されたカレンダーなしでここに表示される担当者は、ミーティング予約の対象にはなりません。また、ライブチャットの空き状況がない担当者は、ライブチャットの対象にはなりません。
 

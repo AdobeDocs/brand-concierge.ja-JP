@@ -12,16 +12,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '638'
 ht-degree: 1%
 ---
 # チャットインボックス {#chat-inbox}
 
 訪問者が誰かに話しかけるよう求めると、チャットが[!DNL Adobe Marketo Qualifier]の&#x200B;**[!UICONTROL チャット受信箱]**&#x200B;に届きます。 このページは、ライブチャットの担当者のビューです。ライブチャットが到着したときに表示される内容、取得するコンテキスト、終了する前に実行する必要がある処理です。
 
-これを開くには、**[!UICONTROL アクティビティ]**&#x200B;の下の左側のパネルで、**[!UICONTROL 受信トレイ]**&#x200B;を選択します。
+チャットの受信トレイを開くには、**[!UICONTROL アクティビティ]**&#x200B;の下の左側のパネルで、**[!UICONTROL チャットの受信トレイ]**&#x200B;を選択します。
 
 ## チャットを受信 {#receive}
 

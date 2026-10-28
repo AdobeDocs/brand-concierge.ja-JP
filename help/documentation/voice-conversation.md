@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '337'
 ht-degree: 0%
 ---
 # 音声会話を有効にする
@@ -66,3 +66,7 @@ Adobe Brand Conciergeの音声認識を利用すれば、訪問者は入力せ�
 1. 「**デザイン**」タブで、「**音声**」を選択します。
 
 1. _音声_ パネルで、オフにするオプションを無効にし、**保存**&#x200B;を選択します。
+
+## 動画デモ
+
+実際の音声会話を確認するには、[&#x200B; ビデオ デモ &#x200B;](/help/getting-started/voice-conversation.md)をご覧ください。

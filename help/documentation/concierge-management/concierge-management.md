@@ -5,7 +5,7 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1702'
 ht-degree: 1%
@@ -77,8 +77,8 @@ ht-degree: 1%
 | コンテンツAI 検索 | AEM Sites コンテンツを検索 | AEM Sites as a Cloud Serviceのお客様向け |
 | エンティティリンク | 訪問者のメッセージ内の商品またはブランド言及を特定のカタログエンティティに解決する | 統合をサポート：通常、単独ではなく検索統合と並行して使用されます |
 | COMMERCE MCP | Adobe Commerceのライブカタログに接続して、商品検索、商品詳細、比較を行えます | デフォルトでは有効になっていません。コマースまたはIT チームのコードまたはキーが必要です |
-| ミーティング予約 | 訪問者が営業担当者との面談を予約できるようにし | 営業担当者のカレンダーで設定する必要があります。 [&#x200B; ライブチャットとミーティングの予約](../sales-handoff/overview.md)を参照 |
-| ライブチャット | 訪問者と営業担当者の連携 | 営業担当者の空き状況を設定する必要があります。 [&#x200B; ライブチャットとミーティングの予約](../sales-handoff/overview.md)を参照 |
+| ミーティング予約 | 訪問者が営業担当者との面談を予約できるようにし | 営業担当者のカレンダーで設定する必要があります。 [&#x200B; ライブチャットとミーティング予約](../sales-handoff/overview.md)を参照してください。 |
+| ライブチャット | 訪問者と営業担当者の連携 | 営業担当者の空き状況を設定する必要があります。 [&#x200B; ライブチャットとミーティング予約](../sales-handoff/overview.md)を参照してください。 |
 
 ### 統合を有効にして設定する
 

@@ -14,14 +14,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '225'
 ht-degree: 0%
 ---
 # ミーティングとライブチャットの監視 {#monitor}
 
-[!DNL Adobe Marketo Qualifier]は、すべてのハンドオフの運用記録を保持します。予約されたミーティング、開催されたチャット、チームのパフォーマンスが記録されます。
+[!DNL Adobe Marketo Qualifier]は、すべてのハンドオフの運用記録を保持します。つまり、予約されたミーティング、開催されたチャット、ミーティング予約のパフォーマンスです。
 
 ## ミーティングの予約を確認 {#bookings}
 
@@ -39,9 +39,9 @@ ht-degree: 0%
 
 ## ミーティングのパフォーマンスを分析 {#performance}
 
-「**[!UICONTROL Analytics]**」で、「**[!UICONTROL 会議のパフォーマンス]**」を選択して、会議をリクエストした訪問者の数や欠落した訪問者の数など、複数の分析カテゴリを確認します。 また、時間の経過に伴うミーティングの傾向と、どの代表者がミーティングに参加したかもわかります。
+**[!UICONTROL Analytics]**&#x200B;で、**[!UICONTROL 会議パフォーマンス]**&#x200B;を選択して、リクエストされた会議出席者の数、予約された会議出席者の数、欠落した会議出席者の数を確認します。 また、日次、週次、月次のトレンド、予約されたミーティングのリクエスト数の割合、最も多くのミーティングに参加した代表者などを確認できます。
 
-![会議パフォーマンスダッシュボード &#x200B;](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![&#x200B; ミーティングのパフォーマンスダッシュボードには、リクエスト済み、予約および未完了のミーティングの合計が表示され、その後、欠落したミーティングの日次チャートと予約されたリクエストの割合が表示されます](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
 
 ## Adobe Marketo Engageでコンシェルジュサービスの利用状況を分析する {#marketo}
 
