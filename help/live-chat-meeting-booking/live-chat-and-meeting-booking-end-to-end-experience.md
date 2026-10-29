@@ -32,4 +32,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
 
-ドキュメントについては、[ ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。
+ドキュメントについては、[&#x200B; ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。
