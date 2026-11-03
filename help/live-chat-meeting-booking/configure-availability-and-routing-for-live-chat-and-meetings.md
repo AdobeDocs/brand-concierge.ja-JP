@@ -31,4 +31,4 @@ Adobe Brand Conciergeで、担当者の空き状況やルーティングルー�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
 
-ドキュメントについては、[担当者の設定](../documentation/sales-handoff/representative-setup.md)および[担当者への会話のルーティング ](../documentation/sales-handoff/routing-rules.md)を参照してください。
+ドキュメントについては、[担当者の設定](../documentation/sales-handoff/representative-setup.md)および[担当者への会話のルーティング &#x200B;](../documentation/sales-handoff/routing-rules.md)を参照してください。
