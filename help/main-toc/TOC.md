@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge について
-source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
+source-git-commit: 636dfd59c05251b6e07523877d9f7ab2df302f04
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '247'
 ht-degree: 12%
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 12%
   + [運用前のチェックリストとロールアウトプラン](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + ライブチャットとミーティング予約 {#live-chat-and-meeting-booking}
   + [ライブチャットとミーティングの予約：エンドツーエンドの体験](../live-chat-meeting-booking/live-chat-and-meeting-booking-end-to-end-experience.md)
+  + [ライブチャットやミーティングの可用性やルーティングを設定し](../live-chat-meeting-booking/configure-availability-and-routing-for-live-chat-and-meetings.md)
 + ドキュメント {#documentation}
   + [Brand Concierge ヘルプ](../documentation/overview.md)
   + [スキルと統合のフレームワーク](../documentation/skills-and-integrations.md)
