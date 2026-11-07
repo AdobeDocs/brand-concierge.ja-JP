@@ -29,6 +29,6 @@ Adobe Brand Conciergeで、担当者の空き状況やルーティングルー�
 * ライブチャットの時間を個別に設定し、「メンバーの管理」で担当者の準備状況を確認できます
 * 訪問者属性、条件、担当者の割り当て、優先順位などを含むルーティングルールを作成します
 
->[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506786?captions=jpn&learn=on)
 
 ドキュメントについては、[担当者の設定](../documentation/sales-handoff/representative-setup.md)および[担当者への会話のルーティング &#x200B;](../documentation/sales-handoff/routing-rules.md)を参照してください。
