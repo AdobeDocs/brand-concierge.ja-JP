@@ -5,12 +5,12 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 178
+duration: 184
 last-substantial-update: 2026-10-29
 jira: KT-23033
-source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 # ライブチャットとミーティングの予約：エンドツーエンドの体験
@@ -30,6 +30,12 @@ ht-degree: 0%
 * 訪問者が、セッション中に既に提供された詳細を再送信することなく、ルーティングルールを使用して利用可能なミーティング時間を選択する方法
 * Marketoでアクティブなチャットや過去のチャットを確認し、ミーティングを予約して、レコードを検索してフィルタリングし、ミーティング情報をCSVに書き出す方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3505999?captions=jpn&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
 
-ドキュメントについては、[&#x200B; ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。
+ドキュメントについては、[ ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。
+
+## 関連チュートリアル
+
+* [ライブチャットやミーティングの可用性やルーティングを設定し](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [ライブチャットとミーティング予約の設定](configure-live-chat-and-meeting-booking.md)
+* [MarketoでのBrand Concierge アクティビティの使用](use-brand-concierge-activities-in-marketo.md)
