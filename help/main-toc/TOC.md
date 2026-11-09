@@ -2,7 +2,8 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Adobe Brand Concierge について
-source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
+auto-video-transcripts: true
+source-git-commit: 2afeeb50b6d831449d45a1ad804c2f594166b1ee
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 11%
