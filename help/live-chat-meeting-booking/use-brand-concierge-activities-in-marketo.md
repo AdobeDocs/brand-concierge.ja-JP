@@ -32,4 +32,4 @@ Adobe Brand Conciergeがユーザーの詳細とエンゲージメントアク�
 * スマートキャンペーンの`Smart List`にConcierge アクティビティフィルターとトリガーを追加
 * ステータス、日付、ルーティングタイプ、ページ URL、営業担当者、会話スコアなど、活動の制約が利用可能なオーディエンスを絞り込むことができます
 
->[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508042?captions=jpn&learn=on)
