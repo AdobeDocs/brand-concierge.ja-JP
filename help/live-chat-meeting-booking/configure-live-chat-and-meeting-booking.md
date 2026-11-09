@@ -30,7 +30,7 @@ Adobe Brand Conciergeでライブチャットとミーティングの予約を�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508052?learn=on)
 
-ドキュメントについては、[ ライブチャットとミーティング予約の有効化](../documentation/sales-handoff/configure-in-composer.md)を参照してください。
+ドキュメントについては、[&#x200B; ライブチャットとミーティング予約の有効化](../documentation/sales-handoff/configure-in-composer.md)を参照してください。
 
 ## 関連チュートリアル
 
