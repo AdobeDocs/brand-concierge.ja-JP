@@ -28,7 +28,7 @@ Adobe Brand Conciergeでライブチャットとミーティングの予約を�
 * 「Handoff to Sales」スキルに統合機能を追加し、それをトリガーするインテントを定義します
 * 自動生成された指示を確認し、各統合のトリガーとなるインテントを絞り込み、プレビューでスキルをテストできます
 
->[!VIDEO](https://video.tv.adobe.com/v/3508052?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508053?captions=jpn&learn=on)
 
 ドキュメントについては、[&#x200B; ライブチャットとミーティング予約の有効化](../documentation/sales-handoff/configure-in-composer.md)を参照してください。
 

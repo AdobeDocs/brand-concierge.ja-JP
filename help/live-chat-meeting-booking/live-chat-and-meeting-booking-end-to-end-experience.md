@@ -30,7 +30,7 @@ ht-degree: 0%
 * 訪問者が、セッション中に既に提供された詳細を再送信することなく、ルーティングルールを使用して利用可能なミーティング時間を選択する方法
 * Marketoでアクティブなチャットや過去のチャットを確認し、ミーティングを予約して、レコードを検索してフィルタリングし、ミーティング情報をCSVに書き出す方法
 
->[!VIDEO](https://video.tv.adobe.com/v/3505998?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505999?captions=jpn&learn=on)
 
 ドキュメントについては、[&#x200B; ライブチャットとミーティング予約](../documentation/sales-handoff/overview.md)を参照してください。
 
